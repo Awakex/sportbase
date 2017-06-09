@@ -58,16 +58,11 @@ def list_view(request, year=None, month=None, week=None):
         init_data={'date_start': date_start, 'date_end': date_end}
         form = FilterForm(initial=init_data)
     # get tourney list by dates
-<<<<<<< HEAD
     tourney_list = Tourney.objects.filter(
         (Q(date_start__lte=date_start,date_end__gte=date_end)) | 
         (Q(date_end__gte=date_start, date_end__lte=date_end)) | 
         (Q(date_start__gte=date_start, date_start__lte=date_end))
     ) 
-=======
-    tourney_list = Tourney.objects.filter(date_start__gte=date_start)
-    tourney_list = tourney_list.filter(date_end__lte=date_end)
->>>>>>> a2faa226c75ad4a1d2f6857b8cb7c5161c143be1
     # export block
     if request.GET.get('file', '') == 'gov':
         return export_gov(tourney_list, date_start, date_end)
@@ -183,7 +178,6 @@ def filter(request):
     if request.method == 'POST':
         form = FilterForm(request.POST)
         if form.is_valid():
-<<<<<<< HEAD
             date_start = form.cleaned_data['date_start']
             date_end = form.cleaned_data['date_end']
             tourney_list = Tourney.objects.filter(
@@ -191,11 +185,6 @@ def filter(request):
                 (Q(date_end__gte=date_start, date_end__lte=date_end)) | 
                 (Q(date_start__gte=date_start, date_start__lte=date_end))
             ) 
-=======
-	   date_start = form.cleaned_data['date_start']
-           date_end = form.cleaned_data['date_end']
-	   tourney_list = Tourney.objects.filter((Q(date_start__gte=date_start,date_end__gte=date_end)) | (Q(date_end__gte=date_start, date_end__lte=date_end)) | (Q(date_start__gte=date_start, date_start__lte=date_end))) 
->>>>>>> a2faa226c75ad4a1d2f6857b8cb7c5161c143be1
     else:
         form = FilterForm()
     return render(request, 'sportapp/filter.html', {'form': form, 'tourney_list': tourney_list})

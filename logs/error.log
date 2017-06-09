@@ -623,3 +623,264 @@
 [Fri Jun 09 15:09:06.586103 2017] [wsgi:error] [pid 2462:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
 [Fri Jun 09 15:09:06.593565 2017] [wsgi:error] [pid 2462:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
 [Fri Jun 09 15:09:06.596678 2017] [wsgi:error] [pid 2461:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:12:14.287897 2017] [wsgi:error] [pid 2462:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:12:14.300069 2017] [wsgi:error] [pid 2461:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:12:14.316105 2017] [wsgi:error] [pid 2462:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:12:14.568987 2017] [wsgi:error] [pid 2461:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:12:15.806878 2017] [wsgi:error] [pid 2462:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:12:15.809907 2017] [wsgi:error] [pid 2461:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:12:15.815305 2017] [wsgi:error] [pid 2461:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:12:16.152006 2017] [wsgi:error] [pid 2462:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:14:05.334795 2017] [wsgi:error] [pid 2462:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:14:05.347866 2017] [wsgi:error] [pid 2461:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:14:05.355766 2017] [wsgi:error] [pid 2462:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:14:05.512176 2017] [wsgi:error] [pid 2461:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:14:07.202060 2017] [wsgi:error] [pid 2461:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:14:09.391288 2017] [wsgi:error] [pid 3080:tid 3042478912] Internal Server Error: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:14:09.391368 2017] [wsgi:error] [pid 3080:tid 3042478912] Traceback (most recent call last):
+[Fri Jun 09 15:14:09.391382 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:14:09.391395 2017] [wsgi:error] [pid 3080:tid 3042478912]     response = get_response(request)
+[Fri Jun 09 15:14:09.391408 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 244, in _legacy_get_response
+[Fri Jun 09 15:14:09.391420 2017] [wsgi:error] [pid 3080:tid 3042478912]     response = middleware_method(request)
+[Fri Jun 09 15:14:09.391433 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 62, in process_request
+[Fri Jun 09 15:14:09.391445 2017] [wsgi:error] [pid 3080:tid 3042478912]     if self.should_redirect_with_slash(request):
+[Fri Jun 09 15:14:09.391457 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+[Fri Jun 09 15:14:09.391481 2017] [wsgi:error] [pid 3080:tid 3042478912]     not is_valid_path(request.path_info, urlconf) and
+[Fri Jun 09 15:14:09.391494 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 158, in is_valid_path
+[Fri Jun 09 15:14:09.391506 2017] [wsgi:error] [pid 3080:tid 3042478912]     resolve(path, urlconf)
+[Fri Jun 09 15:14:09.391519 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 27, in resolve
+[Fri Jun 09 15:14:09.391531 2017] [wsgi:error] [pid 3080:tid 3042478912]     return get_resolver(urlconf).resolve(path)
+[Fri Jun 09 15:14:09.391543 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:14:09.391556 2017] [wsgi:error] [pid 3080:tid 3042478912]     for pattern in self.url_patterns:
+[Fri Jun 09 15:14:09.391568 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:09.391581 2017] [wsgi:error] [pid 3080:tid 3042478912]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:09.391593 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:14:09.391605 2017] [wsgi:error] [pid 3080:tid 3042478912]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:14:09.391618 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:09.391631 2017] [wsgi:error] [pid 3080:tid 3042478912]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:09.391643 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:14:09.391655 2017] [wsgi:error] [pid 3080:tid 3042478912]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:14:09.391668 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:14:09.391680 2017] [wsgi:error] [pid 3080:tid 3042478912]     __import__(name)
+[Fri Jun 09 15:14:09.391704 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:14:09.391711 2017] [wsgi:error] [pid 3080:tid 3042478912]     from sportapp import views as sportviews
+[Fri Jun 09 15:14:09.391717 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 61
+[Fri Jun 09 15:14:09.391723 2017] [wsgi:error] [pid 3080:tid 3042478912]     <<<<<<< HEAD
+[Fri Jun 09 15:14:09.391729 2017] [wsgi:error] [pid 3080:tid 3042478912]      ^
+[Fri Jun 09 15:14:09.391735 2017] [wsgi:error] [pid 3080:tid 3042478912] SyntaxError: invalid syntax
+[Fri Jun 09 15:14:09.394047 2017] [wsgi:error] [pid 3080:tid 3050871616] Internal Server Error: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:14:09.394063 2017] [wsgi:error] [pid 3080:tid 3050871616] Traceback (most recent call last):
+[Fri Jun 09 15:14:09.394070 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:14:09.394077 2017] [wsgi:error] [pid 3080:tid 3050871616]     response = get_response(request)
+[Fri Jun 09 15:14:09.394084 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 244, in _legacy_get_response
+[Fri Jun 09 15:14:09.394090 2017] [wsgi:error] [pid 3080:tid 3050871616]     response = middleware_method(request)
+[Fri Jun 09 15:14:09.394103 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 62, in process_request
+[Fri Jun 09 15:14:09.394110 2017] [wsgi:error] [pid 3080:tid 3050871616]     if self.should_redirect_with_slash(request):
+[Fri Jun 09 15:14:09.394116 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+[Fri Jun 09 15:14:09.394123 2017] [wsgi:error] [pid 3080:tid 3050871616]     not is_valid_path(request.path_info, urlconf) and
+[Fri Jun 09 15:14:09.394129 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 158, in is_valid_path
+[Fri Jun 09 15:14:09.394136 2017] [wsgi:error] [pid 3080:tid 3050871616]     resolve(path, urlconf)
+[Fri Jun 09 15:14:09.394142 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 27, in resolve
+[Fri Jun 09 15:14:09.394148 2017] [wsgi:error] [pid 3080:tid 3050871616]     return get_resolver(urlconf).resolve(path)
+[Fri Jun 09 15:14:09.394154 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:14:09.394160 2017] [wsgi:error] [pid 3080:tid 3050871616]     for pattern in self.url_patterns:
+[Fri Jun 09 15:14:09.394167 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:09.394173 2017] [wsgi:error] [pid 3080:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:09.394179 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:14:09.394185 2017] [wsgi:error] [pid 3080:tid 3050871616]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:14:09.394192 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:09.394198 2017] [wsgi:error] [pid 3080:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:09.394209 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:14:09.394216 2017] [wsgi:error] [pid 3080:tid 3050871616]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:14:09.394222 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:14:09.394229 2017] [wsgi:error] [pid 3080:tid 3050871616]     __import__(name)
+[Fri Jun 09 15:14:09.394235 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:14:09.394241 2017] [wsgi:error] [pid 3080:tid 3050871616]     from sportapp import views as sportviews
+[Fri Jun 09 15:14:09.394247 2017] [wsgi:error] [pid 3080:tid 3050871616]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 61
+[Fri Jun 09 15:14:09.394253 2017] [wsgi:error] [pid 3080:tid 3050871616]     <<<<<<< HEAD
+[Fri Jun 09 15:14:09.394259 2017] [wsgi:error] [pid 3080:tid 3050871616]      ^
+[Fri Jun 09 15:14:09.394265 2017] [wsgi:error] [pid 3080:tid 3050871616] SyntaxError: invalid syntax
+[Fri Jun 09 15:14:10.955047 2017] [wsgi:error] [pid 3081:tid 3050871616] Internal Server Error: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:14:10.955135 2017] [wsgi:error] [pid 3081:tid 3050871616] Traceback (most recent call last):
+[Fri Jun 09 15:14:10.955142 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:14:10.955148 2017] [wsgi:error] [pid 3081:tid 3050871616]     response = get_response(request)
+[Fri Jun 09 15:14:10.955155 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 244, in _legacy_get_response
+[Fri Jun 09 15:14:10.955161 2017] [wsgi:error] [pid 3081:tid 3050871616]     response = middleware_method(request)
+[Fri Jun 09 15:14:10.955168 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 62, in process_request
+[Fri Jun 09 15:14:10.955174 2017] [wsgi:error] [pid 3081:tid 3050871616]     if self.should_redirect_with_slash(request):
+[Fri Jun 09 15:14:10.955181 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+[Fri Jun 09 15:14:10.955187 2017] [wsgi:error] [pid 3081:tid 3050871616]     not is_valid_path(request.path_info, urlconf) and
+[Fri Jun 09 15:14:10.955194 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 158, in is_valid_path
+[Fri Jun 09 15:14:10.955200 2017] [wsgi:error] [pid 3081:tid 3050871616]     resolve(path, urlconf)
+[Fri Jun 09 15:14:10.955206 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 27, in resolve
+[Fri Jun 09 15:14:10.955213 2017] [wsgi:error] [pid 3081:tid 3050871616]     return get_resolver(urlconf).resolve(path)
+[Fri Jun 09 15:14:10.955219 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:14:10.955225 2017] [wsgi:error] [pid 3081:tid 3050871616]     for pattern in self.url_patterns:
+[Fri Jun 09 15:14:10.955231 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:10.955238 2017] [wsgi:error] [pid 3081:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:10.955244 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:14:10.955276 2017] [wsgi:error] [pid 3081:tid 3050871616]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:14:10.955289 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:10.955301 2017] [wsgi:error] [pid 3081:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:10.955313 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:14:10.955325 2017] [wsgi:error] [pid 3081:tid 3050871616]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:14:10.955337 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:14:10.955349 2017] [wsgi:error] [pid 3081:tid 3050871616]     __import__(name)
+[Fri Jun 09 15:14:10.955360 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:14:10.955372 2017] [wsgi:error] [pid 3081:tid 3050871616]     from sportapp import views as sportviews
+[Fri Jun 09 15:14:10.955384 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 61
+[Fri Jun 09 15:14:10.955396 2017] [wsgi:error] [pid 3081:tid 3050871616]     <<<<<<< HEAD
+[Fri Jun 09 15:14:10.955421 2017] [wsgi:error] [pid 3081:tid 3050871616]      ^
+[Fri Jun 09 15:14:10.955442 2017] [wsgi:error] [pid 3081:tid 3050871616] SyntaxError: invalid syntax
+[Fri Jun 09 15:14:13.712477 2017] [wsgi:error] [pid 3080:tid 3025693504] Internal Server Error: /sport/2017/03
+[Fri Jun 09 15:14:13.712537 2017] [wsgi:error] [pid 3080:tid 3025693504] Traceback (most recent call last):
+[Fri Jun 09 15:14:13.712551 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:14:13.712564 2017] [wsgi:error] [pid 3080:tid 3025693504]     response = get_response(request)
+[Fri Jun 09 15:14:13.712579 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 244, in _legacy_get_response
+[Fri Jun 09 15:14:13.712592 2017] [wsgi:error] [pid 3080:tid 3025693504]     response = middleware_method(request)
+[Fri Jun 09 15:14:13.712605 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 62, in process_request
+[Fri Jun 09 15:14:13.712618 2017] [wsgi:error] [pid 3080:tid 3025693504]     if self.should_redirect_with_slash(request):
+[Fri Jun 09 15:14:13.712653 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/middleware/common.py", line 80, in should_redirect_with_slash
+[Fri Jun 09 15:14:13.712669 2017] [wsgi:error] [pid 3080:tid 3025693504]     not is_valid_path(request.path_info, urlconf) and
+[Fri Jun 09 15:14:13.712682 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 158, in is_valid_path
+[Fri Jun 09 15:14:13.712694 2017] [wsgi:error] [pid 3080:tid 3025693504]     resolve(path, urlconf)
+[Fri Jun 09 15:14:13.712707 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/base.py", line 27, in resolve
+[Fri Jun 09 15:14:13.712719 2017] [wsgi:error] [pid 3080:tid 3025693504]     return get_resolver(urlconf).resolve(path)
+[Fri Jun 09 15:14:13.712732 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:14:13.712744 2017] [wsgi:error] [pid 3080:tid 3025693504]     for pattern in self.url_patterns:
+[Fri Jun 09 15:14:13.712756 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:13.712790 2017] [wsgi:error] [pid 3080:tid 3025693504]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:13.712803 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:14:13.712816 2017] [wsgi:error] [pid 3080:tid 3025693504]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:14:13.712839 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:13.712879 2017] [wsgi:error] [pid 3080:tid 3025693504]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:13.712892 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:14:13.712928 2017] [wsgi:error] [pid 3080:tid 3025693504]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:14:13.713371 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:14:13.713394 2017] [wsgi:error] [pid 3080:tid 3025693504]     __import__(name)
+[Fri Jun 09 15:14:13.713407 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:14:13.713420 2017] [wsgi:error] [pid 3080:tid 3025693504]     from sportapp import views as sportviews
+[Fri Jun 09 15:14:13.713433 2017] [wsgi:error] [pid 3080:tid 3025693504]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 61
+[Fri Jun 09 15:14:13.713446 2017] [wsgi:error] [pid 3080:tid 3025693504]     <<<<<<< HEAD
+[Fri Jun 09 15:14:13.713458 2017] [wsgi:error] [pid 3080:tid 3025693504]      ^
+[Fri Jun 09 15:14:13.713471 2017] [wsgi:error] [pid 3080:tid 3025693504] SyntaxError: invalid syntax
+[Fri Jun 09 15:14:22.818988 2017] [wsgi:error] [pid 3081:tid 3025693504] Internal Server Error: /sport/loc/
+[Fri Jun 09 15:14:22.819103 2017] [wsgi:error] [pid 3081:tid 3025693504] Traceback (most recent call last):
+[Fri Jun 09 15:14:22.819117 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:14:22.819130 2017] [wsgi:error] [pid 3081:tid 3025693504]     response = get_response(request)
+[Fri Jun 09 15:14:22.819142 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Fri Jun 09 15:14:22.819155 2017] [wsgi:error] [pid 3081:tid 3025693504]     response = self._get_response(request)
+[Fri Jun 09 15:14:22.819167 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+[Fri Jun 09 15:14:22.819179 2017] [wsgi:error] [pid 3081:tid 3025693504]     resolver_match = resolver.resolve(request.path_info)
+[Fri Jun 09 15:14:22.819191 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:14:22.819204 2017] [wsgi:error] [pid 3081:tid 3025693504]     for pattern in self.url_patterns:
+[Fri Jun 09 15:14:22.819216 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:22.819229 2017] [wsgi:error] [pid 3081:tid 3025693504]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:22.819241 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:14:22.819290 2017] [wsgi:error] [pid 3081:tid 3025693504]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:14:22.819298 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:22.819305 2017] [wsgi:error] [pid 3081:tid 3025693504]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:22.819311 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:14:22.819317 2017] [wsgi:error] [pid 3081:tid 3025693504]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:14:22.819324 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:14:22.819330 2017] [wsgi:error] [pid 3081:tid 3025693504]     __import__(name)
+[Fri Jun 09 15:14:22.819336 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:14:22.819343 2017] [wsgi:error] [pid 3081:tid 3025693504]     from sportapp import views as sportviews
+[Fri Jun 09 15:14:22.819349 2017] [wsgi:error] [pid 3081:tid 3025693504]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 61
+[Fri Jun 09 15:14:22.819355 2017] [wsgi:error] [pid 3081:tid 3025693504]     <<<<<<< HEAD
+[Fri Jun 09 15:14:22.819362 2017] [wsgi:error] [pid 3081:tid 3025693504]      ^
+[Fri Jun 09 15:14:22.819368 2017] [wsgi:error] [pid 3081:tid 3025693504] SyntaxError: invalid syntax
+[Fri Jun 09 15:14:37.763102 2017] [wsgi:error] [pid 3080:tid 3042478912] Internal Server Error: /sport/sports/
+[Fri Jun 09 15:14:37.763160 2017] [wsgi:error] [pid 3080:tid 3042478912] Traceback (most recent call last):
+[Fri Jun 09 15:14:37.763169 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:14:37.763176 2017] [wsgi:error] [pid 3080:tid 3042478912]     response = get_response(request)
+[Fri Jun 09 15:14:37.763182 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Fri Jun 09 15:14:37.763189 2017] [wsgi:error] [pid 3080:tid 3042478912]     response = self._get_response(request)
+[Fri Jun 09 15:14:37.763195 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+[Fri Jun 09 15:14:37.763196 2017] [wsgi:error] [pid 3080:tid 3042478912]     resolver_match = resolver.resolve(request.path_info)
+[Fri Jun 09 15:14:37.765122 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:14:37.765130 2017] [wsgi:error] [pid 3080:tid 3042478912]     for pattern in self.url_patterns:
+[Fri Jun 09 15:14:37.765137 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:37.765144 2017] [wsgi:error] [pid 3080:tid 3042478912]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:37.765151 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:14:37.765158 2017] [wsgi:error] [pid 3080:tid 3042478912]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:14:37.765165 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:14:37.765171 2017] [wsgi:error] [pid 3080:tid 3042478912]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:14:37.765200 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:14:37.765208 2017] [wsgi:error] [pid 3080:tid 3042478912]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:14:37.765214 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:14:37.765221 2017] [wsgi:error] [pid 3080:tid 3042478912]     __import__(name)
+[Fri Jun 09 15:14:37.765231 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:14:37.765242 2017] [wsgi:error] [pid 3080:tid 3042478912]     from sportapp import views as sportviews
+[Fri Jun 09 15:14:37.765254 2017] [wsgi:error] [pid 3080:tid 3042478912]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 61
+[Fri Jun 09 15:14:37.765264 2017] [wsgi:error] [pid 3080:tid 3042478912]     <<<<<<< HEAD
+[Fri Jun 09 15:14:37.765272 2017] [wsgi:error] [pid 3080:tid 3042478912]      ^
+[Fri Jun 09 15:14:37.765279 2017] [wsgi:error] [pid 3080:tid 3042478912] SyntaxError: invalid syntax
+[Fri Jun 09 15:19:06.057718 2017] [wsgi:error] [pid 3081:tid 3050871616] Internal Server Error: /sport/sports/
+[Fri Jun 09 15:19:06.057802 2017] [wsgi:error] [pid 3081:tid 3050871616] Traceback (most recent call last):
+[Fri Jun 09 15:19:06.057811 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:19:06.057819 2017] [wsgi:error] [pid 3081:tid 3050871616]     response = get_response(request)
+[Fri Jun 09 15:19:06.057826 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Fri Jun 09 15:19:06.057833 2017] [wsgi:error] [pid 3081:tid 3050871616]     response = self._get_response(request)
+[Fri Jun 09 15:19:06.057842 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+[Fri Jun 09 15:19:06.057849 2017] [wsgi:error] [pid 3081:tid 3050871616]     resolver_match = resolver.resolve(request.path_info)
+[Fri Jun 09 15:19:06.057856 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:19:06.057862 2017] [wsgi:error] [pid 3081:tid 3050871616]     for pattern in self.url_patterns:
+[Fri Jun 09 15:19:06.057871 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:19:06.057878 2017] [wsgi:error] [pid 3081:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:19:06.057884 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:19:06.057891 2017] [wsgi:error] [pid 3081:tid 3050871616]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:19:06.057916 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:19:06.057925 2017] [wsgi:error] [pid 3081:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:19:06.057934 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:19:06.057941 2017] [wsgi:error] [pid 3081:tid 3050871616]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:19:06.057947 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:19:06.057978 2017] [wsgi:error] [pid 3081:tid 3050871616]     __import__(name)
+[Fri Jun 09 15:19:06.057985 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:19:06.057992 2017] [wsgi:error] [pid 3081:tid 3050871616]     from sportapp import views as sportviews
+[Fri Jun 09 15:19:06.057998 2017] [wsgi:error] [pid 3081:tid 3050871616]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 190
+[Fri Jun 09 15:19:06.058004 2017] [wsgi:error] [pid 3081:tid 3050871616]     date_start = form.cleaned_data['date_start']
+[Fri Jun 09 15:19:06.058011 2017] [wsgi:error] [pid 3081:tid 3050871616]                                                ^
+[Fri Jun 09 15:19:06.058017 2017] [wsgi:error] [pid 3081:tid 3050871616] IndentationError: unindent does not match any outer indentation level
+[Fri Jun 09 15:21:57.633510 2017] [wsgi:error] [pid 3265:tid 3050871616] Internal Server Error: /
+[Fri Jun 09 15:21:57.633617 2017] [wsgi:error] [pid 3265:tid 3050871616] Traceback (most recent call last):
+[Fri Jun 09 15:21:57.633625 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Fri Jun 09 15:21:57.633632 2017] [wsgi:error] [pid 3265:tid 3050871616]     response = get_response(request)
+[Fri Jun 09 15:21:57.633633 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Fri Jun 09 15:21:57.636977 2017] [wsgi:error] [pid 3265:tid 3050871616]     response = self._get_response(request)
+[Fri Jun 09 15:21:57.636984 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+[Fri Jun 09 15:21:57.636991 2017] [wsgi:error] [pid 3265:tid 3050871616]     resolver_match = resolver.resolve(request.path_info)
+[Fri Jun 09 15:21:57.636998 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Fri Jun 09 15:21:57.637004 2017] [wsgi:error] [pid 3265:tid 3050871616]     for pattern in self.url_patterns:
+[Fri Jun 09 15:21:57.637011 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:21:57.637018 2017] [wsgi:error] [pid 3265:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:21:57.637025 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Fri Jun 09 15:21:57.637031 2017] [wsgi:error] [pid 3265:tid 3050871616]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Fri Jun 09 15:21:57.637038 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Fri Jun 09 15:21:57.637045 2017] [wsgi:error] [pid 3265:tid 3050871616]     res = instance.__dict__[self.name] = self.func(instance)
+[Fri Jun 09 15:21:57.637051 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Fri Jun 09 15:21:57.637058 2017] [wsgi:error] [pid 3265:tid 3050871616]     return import_module(self.urlconf_name)
+[Fri Jun 09 15:21:57.637064 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Fri Jun 09 15:21:57.637071 2017] [wsgi:error] [pid 3265:tid 3050871616]     __import__(name)
+[Fri Jun 09 15:21:57.637077 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Fri Jun 09 15:21:57.637115 2017] [wsgi:error] [pid 3265:tid 3050871616]     from sportapp import views as sportviews
+[Fri Jun 09 15:21:57.637128 2017] [wsgi:error] [pid 3265:tid 3050871616]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 190
+[Fri Jun 09 15:21:57.637141 2017] [wsgi:error] [pid 3265:tid 3050871616]     date_start = form.cleaned_data['date_start']
+[Fri Jun 09 15:21:57.637153 2017] [wsgi:error] [pid 3265:tid 3050871616]                                                ^
+[Fri Jun 09 15:21:57.637165 2017] [wsgi:error] [pid 3265:tid 3050871616] IndentationError: unindent does not match any outer indentation level
+[Fri Jun 09 15:22:20.942912 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:22:21.226923 2017] [wsgi:error] [pid 3265:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:22:21.239404 2017] [wsgi:error] [pid 3265:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:22:21.364936 2017] [wsgi:error] [pid 3264:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:22:25.959770 2017] [wsgi:error] [pid 3264:tid 3050871616] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:22:25.962537 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:22:25.969829 2017] [wsgi:error] [pid 3265:tid 3025693504] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:22:26.244184 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:22:27.807885 2017] [wsgi:error] [pid 3264:tid 3050871616] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:22:27.810360 2017] [wsgi:error] [pid 3265:tid 3025693504] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:22:27.817840 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:22:28.033140 2017] [wsgi:error] [pid 3264:tid 3034086208] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:22:35.840711 2017] [wsgi:error] [pid 3264:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:22:35.846289 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:22:35.854553 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:22:36.053583 2017] [wsgi:error] [pid 3265:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
