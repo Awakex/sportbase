@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Спорт</title>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<link rel="stylesheet" href="\static\jqueryui\jquery-ui.min.css " />
+<link rel="stylesheet" href="\static\jqueryui\jquery-ui.theme.css " />
+
+<style>
+#menu { padding: 20px; }
+#menu a { padding: 4px; }
+</style>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">Главная</a>
+    </div>
+    <div class="collapse navbar-collapse" id="navbar-main">
+      <!-- Содержимое основной части -->
+	<ul class="nav navbar-nav">
+        <li class="passive"><a href="/sport/sports/">Виды спорта</a></li>
+	<li class="passive"><a href="/sport/loc/">Места проведения</a></li>
+      <!-- Выпадающий список -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Планы<span class="caret"></span></a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/sport/2017/">2017</a></li>
+	    <li role="separator" class="divider"></li>  
+	    <li><a href="/sport/2017/01">Январь</a></li>
+	    <li><a href="/sport/2017/02">Февраль</a></li>
+	    <li><a href="/sport/2017/03">Март</a></li>
+	    <li><a href="/sport/2017/04">Апрель</a></li>
+	    <li><a href="/sport/2017/05">Май</a></li>
+	    <li><a href="/sport/2017/06">Июнь</a></li>
+	    <li><a href="/sport/2017/07">Июль</a></li>
+	    <li><a href="/sport/2017/08">Август</a></li>
+	    <li><a href="/sport/2017/09">Сентябрь</a></li>
+	    <li><a href="/sport/2017/10">Октябрь</a></li>
+	    <li><a href="/sport/2017/11">Ноябрь</a></li>
+	    <li><a href="/sport/2017/12">Декабрь</a></li>
+          </ul>
+       </li>
+      </ul>
+
+     <!-- Блок, расположенный справа -->
+      <ul class="nav navbar-nav navbar-right"> 
+        {% if request.user.is_authenticated %}
+	<li class="dropdown">
+	  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ request.user }}<span class="caret"></span></a>
+	  <ul class="dropdown-menu">
+	  {% if request.user.is_staff %}
+	  <li><a href="/admin/">Админка</a></li>
+	  {% if request.user.is_superuser %}
+	  <li><a href="/sport/upload/">Загрузить</a></li>
+	 {% endif %}
+	 {% endif %}
+	  <li role="separator" class="divider"></li>
+          <li><a href="/accounts/logout">Выход</a></li>
+          </ul>
+	</li>
+	{% else %}
+	<li><a href="/accounts/login">Вход</a></li>
+	{% endif %}
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+{% block extra_head %}
+{% endblock %}
+</head>
+<body>
+{% block header %}
+<div id="menu" class="container">
+<div class="row">
+<div class="col-sm-12">
+</div>
+</div>
+</div>
+{% endblock %}
+
+<div id="content-wrapper" class="container">
+<div class="row">
+
+<div id ="content" class="col-sm-9">
+{% block breadcrumb %}
+<a href="/">Главная</a>
+{% endblock %}
+
+{% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+{% block content %}
+
+{% endblock %}
+
+
+</div>
+</div>
+
+<div class="container" id="footer">
+{% block footer %}
+<div style="padding: 20px;">
+<p style="text-align:center;">(c) Министерство спорта Республики Марий Эл</p>
+</div>
+{% endblock %}
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    
+<script src="\static\jqueryui\jquery-ui.min.js " ></script>
+    
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+{% block extra_footer %}
+{% endblock %}
+
+</body>
+</html>
