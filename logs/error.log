@@ -581,3 +581,7 @@
 [Fri Jun 09 14:49:14.166887 2017] [wsgi:error] [pid 2461:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
 [Fri Jun 09 14:49:14.181924 2017] [wsgi:error] [pid 2462:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
 [Fri Jun 09 14:49:14.438313 2017] [wsgi:error] [pid 2461:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 14:51:30.085165 2017] [wsgi:error] [pid 2461:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 14:51:30.094310 2017] [wsgi:error] [pid 2462:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 14:51:30.105138 2017] [wsgi:error] [pid 2461:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 14:51:30.271425 2017] [wsgi:error] [pid 2462:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.min.js

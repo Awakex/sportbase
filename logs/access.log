@@ -744,3 +744,8 @@
 127.0.0.1 - - [09/Jun/2017:14:49:14 +0300] "GET /%5Cstatic%5Cjqueryui%5Cjquery-ui.theme.css HTTP/1.1" 404 2852 "http://sportbase.local/" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
 127.0.0.1 - - [09/Jun/2017:14:49:14 +0300] "GET /%5Cstatic%5Cjqueryui%5Cjquery-ui.min.js HTTP/1.1" 404 2843 "http://sportbase.local/" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
 127.0.0.1 - - [09/Jun/2017:14:49:14 +0300] "GET /%5Cstatic%5Cjqueryui%5Cjquery-ui.min.js HTTP/1.1" 404 2843 "http://sportbase.local/" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
+127.0.0.1 - - [09/Jun/2017:14:51:29 +0300] "GET / HTTP/1.1" 200 2607 "-" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
+127.0.0.1 - - [09/Jun/2017:14:51:30 +0300] "GET /%5Cstatic%5Cjqueryui%5Cjquery-ui.min.css HTTP/1.1" 404 2846 "http://sportbase.local/" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
+127.0.0.1 - - [09/Jun/2017:14:51:30 +0300] "GET /%5Cstatic%5Cjqueryui%5Cjquery-ui.theme.css HTTP/1.1" 404 2852 "http://sportbase.local/" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
+127.0.0.1 - - [09/Jun/2017:14:51:30 +0300] "GET /%5Cstatic%5Cjqueryui%5Cjquery-ui.min.js HTTP/1.1" 404 2843 "http://sportbase.local/" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
+127.0.0.1 - - [09/Jun/2017:14:51:30 +0300] "GET /%5Cstatic%5Cjqueryui%5Cjquery-ui.min.js HTTP/1.1" 404 2843 "http://sportbase.local/" "Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0"
