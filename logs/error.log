@@ -884,3 +884,977 @@
 [Fri Jun 09 15:22:35.846289 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
 [Fri Jun 09 15:22:35.854553 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
 [Fri Jun 09 15:22:36.053583 2017] [wsgi:error] [pid 3265:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:25:25.151536 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:25:25.154243 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:25:25.168484 2017] [wsgi:error] [pid 3265:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:25:27.958513 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:25:27.966067 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:25:27.971712 2017] [wsgi:error] [pid 3265:tid 3050871616] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:25:28.323877 2017] [wsgi:error] [pid 3264:tid 3034086208] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:25:33.411861 2017] [wsgi:error] [pid 3265:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:25:33.419673 2017] [wsgi:error] [pid 3264:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:25:33.432673 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:25:33.718507 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:25:38.768182 2017] [wsgi:error] [pid 3265:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 09 15:25:38.776224 2017] [wsgi:error] [pid 3264:tid 3025693504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 09 15:25:38.813276 2017] [wsgi:error] [pid 3265:tid 3050871616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 09 15:25:39.186759 2017] [wsgi:error] [pid 3264:tid 3034086208] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:14.142714 2017] [wsgi:error] [pid 558:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Tue Jun 13 13:17:16.022053 2017] [wsgi:error] [pid 557:tid 3033574208] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:16.034457 2017] [wsgi:error] [pid 557:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Tue Jun 13 13:17:16.370809 2017] [wsgi:error] [pid 558:tid 3050359616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:16.536984 2017] [wsgi:error] [pid 557:tid 3041966912] Not Found: /favicon.ico
+[Tue Jun 13 13:17:18.731114 2017] [wsgi:error] [pid 557:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Tue Jun 13 13:17:18.740366 2017] [wsgi:error] [pid 558:tid 3050359616] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Tue Jun 13 13:17:18.746633 2017] [wsgi:error] [pid 557:tid 3041966912] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:18.915199 2017] [wsgi:error] [pid 558:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:25.315700 2017] [wsgi:error] [pid 557:tid 3041966912] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Tue Jun 13 13:17:25.318719 2017] [wsgi:error] [pid 558:tid 3050359616] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Tue Jun 13 13:17:25.321842 2017] [wsgi:error] [pid 558:tid 3025181504] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:25.567787 2017] [wsgi:error] [pid 557:tid 3025181504] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:26.945191 2017] [wsgi:error] [pid 558:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Tue Jun 13 13:17:26.951464 2017] [wsgi:error] [pid 557:tid 3041966912] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Tue Jun 13 13:17:26.958709 2017] [wsgi:error] [pid 557:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:27.177907 2017] [wsgi:error] [pid 558:tid 3033574208] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:29.044198 2017] [wsgi:error] [pid 558:tid 3025181504] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.css
+[Tue Jun 13 13:17:29.038662 2017] [wsgi:error] [pid 557:tid 3025181504] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.theme.css
+[Tue Jun 13 13:17:29.161176 2017] [wsgi:error] [pid 558:tid 3033574208] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:29.304126 2017] [wsgi:error] [pid 557:tid 3033574208] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:31.554724 2017] [wsgi:error] [pid 557:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Tue Jun 13 13:17:31.567719 2017] [wsgi:error] [pid 558:tid 3033574208] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Tue Jun 13 13:17:31.586854 2017] [wsgi:error] [pid 557:tid 3033574208] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:17:31.944174 2017] [wsgi:error] [pid 558:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:25:25.381984 2017] [wsgi:error] [pid 1904:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Tue Jun 13 13:25:26.709494 2017] [wsgi:error] [pid 1906:tid 3025181504] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Tue Jun 13 13:25:26.715742 2017] [wsgi:error] [pid 1906:tid 3041966912] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Tue Jun 13 13:25:26.865472 2017] [wsgi:error] [pid 1904:tid 3050359616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 12:18:45.792188 2017] [wsgi:error] [pid 559:tid 3050810176] Not Found: /favicon.ico
+[Thu Jun 15 12:18:45.793167 2017] [wsgi:error] [pid 558:tid 3034024768] Not Found: /favicon.ico
+[Thu Jun 15 12:21:09.197985 2017] [wsgi:error] [pid 1720:tid 3025632064] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 12:21:10.582889 2017] [wsgi:error] [pid 1721:tid 3025632064] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 12:21:10.588130 2017] [wsgi:error] [pid 1721:tid 3050810176] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 12:21:10.674572 2017] [wsgi:error] [pid 1720:tid 3042417472] Not Found: /accounts/login/\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 12:21:14.714099 2017] [wsgi:error] [pid 1720:tid 3025632064] Internal Server Error: /
+[Thu Jun 15 12:21:14.714153 2017] [wsgi:error] [pid 1720:tid 3025632064] Traceback (most recent call last):
+[Thu Jun 15 12:21:14.714167 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 12:21:14.714180 2017] [wsgi:error] [pid 1720:tid 3025632064]     response = get_response(request)
+[Thu Jun 15 12:21:14.714193 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 12:21:14.714231 2017] [wsgi:error] [pid 1720:tid 3025632064]     response = self._get_response(request)
+[Thu Jun 15 12:21:14.714245 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 12:21:14.714258 2017] [wsgi:error] [pid 1720:tid 3025632064]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 12:21:14.714271 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 12:21:14.714284 2017] [wsgi:error] [pid 1720:tid 3025632064]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 12:21:14.714297 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 12:21:14.714310 2017] [wsgi:error] [pid 1720:tid 3025632064]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 12:21:14.714323 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 12:21:14.714335 2017] [wsgi:error] [pid 1720:tid 3025632064]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 12:21:14.714348 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 12:21:14.714361 2017] [wsgi:error] [pid 1720:tid 3025632064]     return template.render(context, request)
+[Thu Jun 15 12:21:14.714374 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 12:21:14.714386 2017] [wsgi:error] [pid 1720:tid 3025632064]     return self.template.render(context)
+[Thu Jun 15 12:21:14.714399 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 12:21:14.714421 2017] [wsgi:error] [pid 1720:tid 3025632064]     return self._render(context)
+[Thu Jun 15 12:21:14.714436 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:21:14.714449 2017] [wsgi:error] [pid 1720:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 12:21:14.714490 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:21:14.714503 2017] [wsgi:error] [pid 1720:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:21:14.714516 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:21:14.714528 2017] [wsgi:error] [pid 1720:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:21:14.714541 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 12:21:14.714553 2017] [wsgi:error] [pid 1720:tid 3025632064]     return compiled_parent._render(context)
+[Thu Jun 15 12:21:14.714566 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:21:14.714578 2017] [wsgi:error] [pid 1720:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 12:21:14.714591 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:21:14.714603 2017] [wsgi:error] [pid 1720:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:21:14.714616 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:21:14.714628 2017] [wsgi:error] [pid 1720:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:21:14.714640 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 12:21:14.714653 2017] [wsgi:error] [pid 1720:tid 3025632064]     result = block.nodelist.render(context)
+[Thu Jun 15 12:21:14.714665 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:21:14.714678 2017] [wsgi:error] [pid 1720:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:21:14.714690 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:21:14.714702 2017] [wsgi:error] [pid 1720:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:21:14.714715 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 12:21:14.714727 2017] [wsgi:error] [pid 1720:tid 3025632064]     len_values = len(values)
+[Thu Jun 15 12:21:14.714748 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 12:21:14.714761 2017] [wsgi:error] [pid 1720:tid 3025632064]     self._fetch_all()
+[Thu Jun 15 12:21:14.714773 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 12:21:14.714786 2017] [wsgi:error] [pid 1720:tid 3025632064]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 12:21:14.714798 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 12:21:14.714811 2017] [wsgi:error] [pid 1720:tid 3025632064]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 12:21:14.714824 2017] [wsgi:error] [pid 1720:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 12:21:14.714853 2017] [wsgi:error] [pid 1720:tid 3025632064]     raise original_exception
+[Thu Jun 15 12:21:14.714866 2017] [wsgi:error] [pid 1720:tid 3025632064] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 12:31:30.863006 2017] [wsgi:error] [pid 1980:tid 3050810176] Internal Server Error: /
+[Thu Jun 15 12:31:30.863163 2017] [wsgi:error] [pid 1980:tid 3050810176] Traceback (most recent call last):
+[Thu Jun 15 12:31:30.863177 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 12:31:30.863190 2017] [wsgi:error] [pid 1980:tid 3050810176]     response = get_response(request)
+[Thu Jun 15 12:31:30.863202 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 12:31:30.863215 2017] [wsgi:error] [pid 1980:tid 3050810176]     response = self._get_response(request)
+[Thu Jun 15 12:31:30.863227 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 12:31:30.863263 2017] [wsgi:error] [pid 1980:tid 3050810176]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 12:31:30.863276 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 12:31:30.863289 2017] [wsgi:error] [pid 1980:tid 3050810176]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 12:31:30.863301 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 12:31:30.863313 2017] [wsgi:error] [pid 1980:tid 3050810176]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 12:31:30.863339 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 12:31:30.863352 2017] [wsgi:error] [pid 1980:tid 3050810176]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 12:31:30.863364 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 12:31:30.863377 2017] [wsgi:error] [pid 1980:tid 3050810176]     return template.render(context, request)
+[Thu Jun 15 12:31:30.863389 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 12:31:30.863401 2017] [wsgi:error] [pid 1980:tid 3050810176]     return self.template.render(context)
+[Thu Jun 15 12:31:30.863414 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 12:31:30.863426 2017] [wsgi:error] [pid 1980:tid 3050810176]     return self._render(context)
+[Thu Jun 15 12:31:30.863447 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:31:30.863460 2017] [wsgi:error] [pid 1980:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 12:31:30.863472 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:31:30.863484 2017] [wsgi:error] [pid 1980:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 12:31:30.863497 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:31:30.863509 2017] [wsgi:error] [pid 1980:tid 3050810176]     return self.render(context)
+[Thu Jun 15 12:31:30.863546 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 12:31:30.863553 2017] [wsgi:error] [pid 1980:tid 3050810176]     return compiled_parent._render(context)
+[Thu Jun 15 12:31:30.863560 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:31:30.863566 2017] [wsgi:error] [pid 1980:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 12:31:30.863572 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:31:30.863578 2017] [wsgi:error] [pid 1980:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 12:31:30.863584 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:31:30.863590 2017] [wsgi:error] [pid 1980:tid 3050810176]     return self.render(context)
+[Thu Jun 15 12:31:30.863596 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 12:31:30.863602 2017] [wsgi:error] [pid 1980:tid 3050810176]     result = block.nodelist.render(context)
+[Thu Jun 15 12:31:30.863608 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:31:30.863615 2017] [wsgi:error] [pid 1980:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 12:31:30.863621 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:31:30.863627 2017] [wsgi:error] [pid 1980:tid 3050810176]     return self.render(context)
+[Thu Jun 15 12:31:30.863633 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 12:31:30.863639 2017] [wsgi:error] [pid 1980:tid 3050810176]     len_values = len(values)
+[Thu Jun 15 12:31:30.863645 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 12:31:30.863651 2017] [wsgi:error] [pid 1980:tid 3050810176]     self._fetch_all()
+[Thu Jun 15 12:31:30.863657 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 12:31:30.863663 2017] [wsgi:error] [pid 1980:tid 3050810176]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 12:31:30.863669 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 12:31:30.863675 2017] [wsgi:error] [pid 1980:tid 3050810176]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 12:31:30.863681 2017] [wsgi:error] [pid 1980:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 12:31:30.863687 2017] [wsgi:error] [pid 1980:tid 3050810176]     raise original_exception
+[Thu Jun 15 12:31:30.863693 2017] [wsgi:error] [pid 1980:tid 3050810176] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 12:39:43.133166 2017] [wsgi:error] [pid 1981:tid 3025632064] Internal Server Error: /
+[Thu Jun 15 12:39:43.133275 2017] [wsgi:error] [pid 1981:tid 3025632064] Traceback (most recent call last):
+[Thu Jun 15 12:39:43.133283 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 12:39:43.133318 2017] [wsgi:error] [pid 1981:tid 3025632064]     response = get_response(request)
+[Thu Jun 15 12:39:43.133331 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 12:39:43.133344 2017] [wsgi:error] [pid 1981:tid 3025632064]     response = self._get_response(request)
+[Thu Jun 15 12:39:43.133356 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 12:39:43.133368 2017] [wsgi:error] [pid 1981:tid 3025632064]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 12:39:43.133380 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 12:39:43.133392 2017] [wsgi:error] [pid 1981:tid 3025632064]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 12:39:43.133405 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 12:39:43.133417 2017] [wsgi:error] [pid 1981:tid 3025632064]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 12:39:43.133429 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 12:39:43.133441 2017] [wsgi:error] [pid 1981:tid 3025632064]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 12:39:43.133453 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 12:39:43.133473 2017] [wsgi:error] [pid 1981:tid 3025632064]     return template.render(context, request)
+[Thu Jun 15 12:39:43.133486 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 12:39:43.133498 2017] [wsgi:error] [pid 1981:tid 3025632064]     return self.template.render(context)
+[Thu Jun 15 12:39:43.133510 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 12:39:43.133581 2017] [wsgi:error] [pid 1981:tid 3025632064]     return self._render(context)
+[Thu Jun 15 12:39:43.133606 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:39:43.133618 2017] [wsgi:error] [pid 1981:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 12:39:43.133630 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:39:43.133642 2017] [wsgi:error] [pid 1981:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:39:43.133654 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:39:43.133666 2017] [wsgi:error] [pid 1981:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:39:43.133678 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 12:39:43.133690 2017] [wsgi:error] [pid 1981:tid 3025632064]     return compiled_parent._render(context)
+[Thu Jun 15 12:39:43.133702 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:39:43.133714 2017] [wsgi:error] [pid 1981:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 12:39:43.133740 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:39:43.133753 2017] [wsgi:error] [pid 1981:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:39:43.133765 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:39:43.133777 2017] [wsgi:error] [pid 1981:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:39:43.133789 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 12:39:43.133801 2017] [wsgi:error] [pid 1981:tid 3025632064]     result = block.nodelist.render(context)
+[Thu Jun 15 12:39:43.133813 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:39:43.133833 2017] [wsgi:error] [pid 1981:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:39:43.133847 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:39:43.133859 2017] [wsgi:error] [pid 1981:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:39:43.133870 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 12:39:43.133882 2017] [wsgi:error] [pid 1981:tid 3025632064]     len_values = len(values)
+[Thu Jun 15 12:39:43.133893 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 12:39:43.133905 2017] [wsgi:error] [pid 1981:tid 3025632064]     self._fetch_all()
+[Thu Jun 15 12:39:43.133917 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 12:39:43.133928 2017] [wsgi:error] [pid 1981:tid 3025632064]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 12:39:43.133940 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 12:39:43.133952 2017] [wsgi:error] [pid 1981:tid 3025632064]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 12:39:43.133963 2017] [wsgi:error] [pid 1981:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 12:39:43.133975 2017] [wsgi:error] [pid 1981:tid 3025632064]     raise original_exception
+[Thu Jun 15 12:39:43.133987 2017] [wsgi:error] [pid 1981:tid 3025632064] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 12:45:47.100338 2017] [wsgi:error] [pid 1980:tid 3025632064] Internal Server Error: /
+[Thu Jun 15 12:45:47.100401 2017] [wsgi:error] [pid 1980:tid 3025632064] Traceback (most recent call last):
+[Thu Jun 15 12:45:47.100415 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 12:45:47.100428 2017] [wsgi:error] [pid 1980:tid 3025632064]     response = get_response(request)
+[Thu Jun 15 12:45:47.100441 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 12:45:47.100454 2017] [wsgi:error] [pid 1980:tid 3025632064]     response = self._get_response(request)
+[Thu Jun 15 12:45:47.100487 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 12:45:47.100528 2017] [wsgi:error] [pid 1980:tid 3025632064]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 12:45:47.100541 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 12:45:47.100554 2017] [wsgi:error] [pid 1980:tid 3025632064]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 12:45:47.100574 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 12:45:47.100589 2017] [wsgi:error] [pid 1980:tid 3025632064]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 12:45:47.100600 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 12:45:47.100612 2017] [wsgi:error] [pid 1980:tid 3025632064]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 12:45:47.100624 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 12:45:47.100636 2017] [wsgi:error] [pid 1980:tid 3025632064]     return template.render(context, request)
+[Thu Jun 15 12:45:47.100647 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 12:45:47.100659 2017] [wsgi:error] [pid 1980:tid 3025632064]     return self.template.render(context)
+[Thu Jun 15 12:45:47.100671 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 12:45:47.100683 2017] [wsgi:error] [pid 1980:tid 3025632064]     return self._render(context)
+[Thu Jun 15 12:45:47.100694 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:45:47.100706 2017] [wsgi:error] [pid 1980:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 12:45:47.100717 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:45:47.100729 2017] [wsgi:error] [pid 1980:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:45:47.100741 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:45:47.100752 2017] [wsgi:error] [pid 1980:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:45:47.100764 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 12:45:47.100775 2017] [wsgi:error] [pid 1980:tid 3025632064]     return compiled_parent._render(context)
+[Thu Jun 15 12:45:47.100787 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 12:45:47.100798 2017] [wsgi:error] [pid 1980:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 12:45:47.100810 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:45:47.100822 2017] [wsgi:error] [pid 1980:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:45:47.100833 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:45:47.100845 2017] [wsgi:error] [pid 1980:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:45:47.100878 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 12:45:47.100891 2017] [wsgi:error] [pid 1980:tid 3025632064]     result = block.nodelist.render(context)
+[Thu Jun 15 12:45:47.100902 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 12:45:47.100914 2017] [wsgi:error] [pid 1980:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 12:45:47.100925 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 12:45:47.100937 2017] [wsgi:error] [pid 1980:tid 3025632064]     return self.render(context)
+[Thu Jun 15 12:45:47.100949 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 12:45:47.100960 2017] [wsgi:error] [pid 1980:tid 3025632064]     len_values = len(values)
+[Thu Jun 15 12:45:47.100972 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 12:45:47.100983 2017] [wsgi:error] [pid 1980:tid 3025632064]     self._fetch_all()
+[Thu Jun 15 12:45:47.100995 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 12:45:47.101007 2017] [wsgi:error] [pid 1980:tid 3025632064]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 12:45:47.101018 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 12:45:47.101030 2017] [wsgi:error] [pid 1980:tid 3025632064]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 12:45:47.101042 2017] [wsgi:error] [pid 1980:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 12:45:47.101053 2017] [wsgi:error] [pid 1980:tid 3025632064]     raise original_exception
+[Thu Jun 15 12:45:47.101065 2017] [wsgi:error] [pid 1980:tid 3025632064] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:06:13.495767 2017] [wsgi:error] [pid 2301:tid 3050810176] Internal Server Error: /
+[Thu Jun 15 13:06:13.495907 2017] [wsgi:error] [pid 2301:tid 3050810176] Traceback (most recent call last):
+[Thu Jun 15 13:06:13.495922 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:06:13.495935 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = get_response(request)
+[Thu Jun 15 13:06:13.495979 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:06:13.495999 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = self._get_response(request)
+[Thu Jun 15 13:06:13.496012 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:06:13.496025 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:06:13.496037 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:06:13.496050 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:06:13.496062 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:06:13.496114 2017] [wsgi:error] [pid 2301:tid 3050810176]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:06:13.496122 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:06:13.496128 2017] [wsgi:error] [pid 2301:tid 3050810176]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:06:13.496135 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:06:13.496141 2017] [wsgi:error] [pid 2301:tid 3050810176]     return template.render(context, request)
+[Thu Jun 15 13:06:13.496147 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:06:13.496154 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.template.render(context)
+[Thu Jun 15 13:06:13.496160 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:06:13.496166 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self._render(context)
+[Thu Jun 15 13:06:13.496172 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:06:13.496179 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:06:13.496185 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:06:13.496191 2017] [wsgi:error] [pid 2301:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:06:13.496197 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:06:13.496204 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:06:13.496210 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:06:13.496216 2017] [wsgi:error] [pid 2301:tid 3050810176]     return compiled_parent._render(context)
+[Thu Jun 15 13:06:13.496222 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:06:13.496228 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:06:13.496234 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:06:13.496241 2017] [wsgi:error] [pid 2301:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:06:13.496247 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:06:13.496253 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:06:13.496259 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:06:13.496265 2017] [wsgi:error] [pid 2301:tid 3050810176]     result = block.nodelist.render(context)
+[Thu Jun 15 13:06:13.496271 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:06:13.496278 2017] [wsgi:error] [pid 2301:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:06:13.496290 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:06:13.496297 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:06:13.496303 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:06:13.496309 2017] [wsgi:error] [pid 2301:tid 3050810176]     len_values = len(values)
+[Thu Jun 15 13:06:13.496316 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:06:13.496322 2017] [wsgi:error] [pid 2301:tid 3050810176]     self._fetch_all()
+[Thu Jun 15 13:06:13.496328 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:06:13.496334 2017] [wsgi:error] [pid 2301:tid 3050810176]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:06:13.496341 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:06:13.496347 2017] [wsgi:error] [pid 2301:tid 3050810176]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:06:13.496353 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:06:13.496359 2017] [wsgi:error] [pid 2301:tid 3050810176]     raise original_exception
+[Thu Jun 15 13:06:13.496365 2017] [wsgi:error] [pid 2301:tid 3050810176] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:13:32.308665 2017] [wsgi:error] [pid 2301:tid 3025632064] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 13:13:32.315605 2017] [wsgi:error] [pid 2300:tid 3025632064] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 13:13:32.329426 2017] [wsgi:error] [pid 2301:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:13:32.615132 2017] [wsgi:error] [pid 2300:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:14:10.814693 2017] [wsgi:error] [pid 2301:tid 3034024768] Internal Server Error: /
+[Thu Jun 15 13:14:10.814768 2017] [wsgi:error] [pid 2301:tid 3034024768] Traceback (most recent call last):
+[Thu Jun 15 13:14:10.814776 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:14:10.814782 2017] [wsgi:error] [pid 2301:tid 3034024768]     response = get_response(request)
+[Thu Jun 15 13:14:10.814789 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:14:10.814795 2017] [wsgi:error] [pid 2301:tid 3034024768]     response = self._get_response(request)
+[Thu Jun 15 13:14:10.814801 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:14:10.814808 2017] [wsgi:error] [pid 2301:tid 3034024768]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:14:10.814814 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:14:10.814820 2017] [wsgi:error] [pid 2301:tid 3034024768]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:14:10.814827 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:14:10.814914 2017] [wsgi:error] [pid 2301:tid 3034024768]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:14:10.814928 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:14:10.814940 2017] [wsgi:error] [pid 2301:tid 3034024768]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:14:10.814952 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:14:10.814964 2017] [wsgi:error] [pid 2301:tid 3034024768]     return template.render(context, request)
+[Thu Jun 15 13:14:10.814975 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:14:10.814988 2017] [wsgi:error] [pid 2301:tid 3034024768]     return self.template.render(context)
+[Thu Jun 15 13:14:10.814999 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:14:10.815011 2017] [wsgi:error] [pid 2301:tid 3034024768]     return self._render(context)
+[Thu Jun 15 13:14:10.815023 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:14:10.815035 2017] [wsgi:error] [pid 2301:tid 3034024768]     return self.nodelist.render(context)
+[Thu Jun 15 13:14:10.815046 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:14:10.815058 2017] [wsgi:error] [pid 2301:tid 3034024768]     bit = node.render_annotated(context)
+[Thu Jun 15 13:14:10.815070 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:14:10.815082 2017] [wsgi:error] [pid 2301:tid 3034024768]     return self.render(context)
+[Thu Jun 15 13:14:10.815094 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:14:10.815105 2017] [wsgi:error] [pid 2301:tid 3034024768]     return compiled_parent._render(context)
+[Thu Jun 15 13:14:10.815117 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:14:10.815129 2017] [wsgi:error] [pid 2301:tid 3034024768]     return self.nodelist.render(context)
+[Thu Jun 15 13:14:10.815140 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:14:10.815152 2017] [wsgi:error] [pid 2301:tid 3034024768]     bit = node.render_annotated(context)
+[Thu Jun 15 13:14:10.815164 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:14:10.815175 2017] [wsgi:error] [pid 2301:tid 3034024768]     return self.render(context)
+[Thu Jun 15 13:14:10.815197 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:14:10.815210 2017] [wsgi:error] [pid 2301:tid 3034024768]     result = block.nodelist.render(context)
+[Thu Jun 15 13:14:10.815222 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:14:10.815234 2017] [wsgi:error] [pid 2301:tid 3034024768]     bit = node.render_annotated(context)
+[Thu Jun 15 13:14:10.815245 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:14:10.815273 2017] [wsgi:error] [pid 2301:tid 3034024768]     return self.render(context)
+[Thu Jun 15 13:14:10.815285 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:14:10.815297 2017] [wsgi:error] [pid 2301:tid 3034024768]     len_values = len(values)
+[Thu Jun 15 13:14:10.815308 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:14:10.815320 2017] [wsgi:error] [pid 2301:tid 3034024768]     self._fetch_all()
+[Thu Jun 15 13:14:10.815332 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:14:10.815344 2017] [wsgi:error] [pid 2301:tid 3034024768]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:14:10.815355 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:14:10.815367 2017] [wsgi:error] [pid 2301:tid 3034024768]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:14:10.815379 2017] [wsgi:error] [pid 2301:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:14:10.815391 2017] [wsgi:error] [pid 2301:tid 3034024768]     raise original_exception
+[Thu Jun 15 13:14:10.815402 2017] [wsgi:error] [pid 2301:tid 3034024768] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:17:23.312373 2017] [wsgi:error] [pid 2301:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 13:17:23.322217 2017] [wsgi:error] [pid 2300:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 13:17:23.341308 2017] [wsgi:error] [pid 2301:tid 3034024768] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:17:23.550602 2017] [wsgi:error] [pid 2300:tid 3025632064] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:18:12.444211 2017] [wsgi:error] [pid 2301:tid 3050810176] Internal Server Error: /
+[Thu Jun 15 13:18:12.444280 2017] [wsgi:error] [pid 2301:tid 3050810176] Traceback (most recent call last):
+[Thu Jun 15 13:18:12.444294 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:18:12.444306 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = get_response(request)
+[Thu Jun 15 13:18:12.444318 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:18:12.444330 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = self._get_response(request)
+[Thu Jun 15 13:18:12.444342 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:18:12.444354 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:18:12.444366 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:18:12.444378 2017] [wsgi:error] [pid 2301:tid 3050810176]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:18:12.444390 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:18:12.444402 2017] [wsgi:error] [pid 2301:tid 3050810176]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:18:12.444452 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:18:12.444464 2017] [wsgi:error] [pid 2301:tid 3050810176]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:18:12.444476 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:18:12.444488 2017] [wsgi:error] [pid 2301:tid 3050810176]     return template.render(context, request)
+[Thu Jun 15 13:18:12.444499 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:18:12.444511 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.template.render(context)
+[Thu Jun 15 13:18:12.444522 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:18:12.444534 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self._render(context)
+[Thu Jun 15 13:18:12.444546 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:18:12.444557 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:18:12.444569 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:18:12.444596 2017] [wsgi:error] [pid 2301:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:18:12.444608 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:18:12.444620 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:18:12.444641 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:18:12.444653 2017] [wsgi:error] [pid 2301:tid 3050810176]     return compiled_parent._render(context)
+[Thu Jun 15 13:18:12.444665 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:18:12.444677 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:18:12.444689 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:18:12.444701 2017] [wsgi:error] [pid 2301:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:18:12.444712 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:18:12.444724 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:18:12.444736 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:18:12.444748 2017] [wsgi:error] [pid 2301:tid 3050810176]     result = block.nodelist.render(context)
+[Thu Jun 15 13:18:12.444760 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:18:12.444772 2017] [wsgi:error] [pid 2301:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:18:12.444784 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:18:12.444811 2017] [wsgi:error] [pid 2301:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:18:12.444823 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:18:12.444835 2017] [wsgi:error] [pid 2301:tid 3050810176]     len_values = len(values)
+[Thu Jun 15 13:18:12.444847 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:18:12.444859 2017] [wsgi:error] [pid 2301:tid 3050810176]     self._fetch_all()
+[Thu Jun 15 13:18:12.444871 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:18:12.444892 2017] [wsgi:error] [pid 2301:tid 3050810176]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:18:12.444906 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:18:12.444939 2017] [wsgi:error] [pid 2301:tid 3050810176]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:18:12.444954 2017] [wsgi:error] [pid 2301:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:18:12.444966 2017] [wsgi:error] [pid 2301:tid 3050810176]     raise original_exception
+[Thu Jun 15 13:18:12.444978 2017] [wsgi:error] [pid 2301:tid 3050810176] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:18:31.385523 2017] [wsgi:error] [pid 2532:tid 3050810176] Internal Server Error: /
+[Thu Jun 15 13:18:31.385688 2017] [wsgi:error] [pid 2532:tid 3050810176] Traceback (most recent call last):
+[Thu Jun 15 13:18:31.385701 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:18:31.385713 2017] [wsgi:error] [pid 2532:tid 3050810176]     response = get_response(request)
+[Thu Jun 15 13:18:31.385724 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:18:31.385736 2017] [wsgi:error] [pid 2532:tid 3050810176]     response = self._get_response(request)
+[Thu Jun 15 13:18:31.385747 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:18:31.385758 2017] [wsgi:error] [pid 2532:tid 3050810176]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:18:31.385770 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:18:31.385781 2017] [wsgi:error] [pid 2532:tid 3050810176]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:18:31.385792 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:18:31.385804 2017] [wsgi:error] [pid 2532:tid 3050810176]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:18:31.385815 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:18:31.385827 2017] [wsgi:error] [pid 2532:tid 3050810176]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:18:31.385838 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:18:31.385874 2017] [wsgi:error] [pid 2532:tid 3050810176]     return template.render(context, request)
+[Thu Jun 15 13:18:31.385890 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:18:31.385924 2017] [wsgi:error] [pid 2532:tid 3050810176]     return self.template.render(context)
+[Thu Jun 15 13:18:31.385941 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:18:31.385948 2017] [wsgi:error] [pid 2532:tid 3050810176]     return self._render(context)
+[Thu Jun 15 13:18:31.385963 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:18:31.385970 2017] [wsgi:error] [pid 2532:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:18:31.385976 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:18:31.385982 2017] [wsgi:error] [pid 2532:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:18:31.385988 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:18:31.385994 2017] [wsgi:error] [pid 2532:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:18:31.386000 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:18:31.386006 2017] [wsgi:error] [pid 2532:tid 3050810176]     return compiled_parent._render(context)
+[Thu Jun 15 13:18:31.386012 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:18:31.386018 2017] [wsgi:error] [pid 2532:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:18:31.386024 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:18:31.386030 2017] [wsgi:error] [pid 2532:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:18:31.386036 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:18:31.386043 2017] [wsgi:error] [pid 2532:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:18:31.386049 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:18:31.386055 2017] [wsgi:error] [pid 2532:tid 3050810176]     result = block.nodelist.render(context)
+[Thu Jun 15 13:18:31.386061 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:18:31.386067 2017] [wsgi:error] [pid 2532:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:18:31.386073 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:18:31.386079 2017] [wsgi:error] [pid 2532:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:18:31.386085 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:18:31.386091 2017] [wsgi:error] [pid 2532:tid 3050810176]     len_values = len(values)
+[Thu Jun 15 13:18:31.386097 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:18:31.386124 2017] [wsgi:error] [pid 2532:tid 3050810176]     self._fetch_all()
+[Thu Jun 15 13:18:31.386130 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:18:31.386137 2017] [wsgi:error] [pid 2532:tid 3050810176]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:18:31.386143 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:18:31.386149 2017] [wsgi:error] [pid 2532:tid 3050810176]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:18:31.386155 2017] [wsgi:error] [pid 2532:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:18:31.386161 2017] [wsgi:error] [pid 2532:tid 3050810176]     raise original_exception
+[Thu Jun 15 13:18:31.386167 2017] [wsgi:error] [pid 2532:tid 3050810176] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:18:58.547632 2017] [wsgi:error] [pid 2634:tid 3025632064] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 13:18:59.735010 2017] [wsgi:error] [pid 2635:tid 3034024768] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:18:59.749632 2017] [wsgi:error] [pid 2635:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 13:18:59.901226 2017] [wsgi:error] [pid 2634:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:19:54.458370 2017] [wsgi:error] [pid 2634:tid 3025632064] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 13:19:54.475587 2017] [wsgi:error] [pid 2634:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:19:54.478085 2017] [wsgi:error] [pid 2635:tid 3050810176] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 13:19:54.729179 2017] [wsgi:error] [pid 2635:tid 3025632064] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 13:20:21.583670 2017] [wsgi:error] [pid 2771:tid 3050810176] Internal Server Error: /
+[Thu Jun 15 13:20:21.583788 2017] [wsgi:error] [pid 2771:tid 3050810176] Traceback (most recent call last):
+[Thu Jun 15 13:20:21.583796 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:20:21.583803 2017] [wsgi:error] [pid 2771:tid 3050810176]     response = get_response(request)
+[Thu Jun 15 13:20:21.583809 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:20:21.583815 2017] [wsgi:error] [pid 2771:tid 3050810176]     response = self._get_response(request)
+[Thu Jun 15 13:20:21.583822 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:20:21.583828 2017] [wsgi:error] [pid 2771:tid 3050810176]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:20:21.583835 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:20:21.583841 2017] [wsgi:error] [pid 2771:tid 3050810176]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:20:21.583847 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:20:21.583854 2017] [wsgi:error] [pid 2771:tid 3050810176]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:20:21.583860 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:20:21.583888 2017] [wsgi:error] [pid 2771:tid 3050810176]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:20:21.583895 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:20:21.583901 2017] [wsgi:error] [pid 2771:tid 3050810176]     return template.render(context, request)
+[Thu Jun 15 13:20:21.583907 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:20:21.583914 2017] [wsgi:error] [pid 2771:tid 3050810176]     return self.template.render(context)
+[Thu Jun 15 13:20:21.583919 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:20:21.583925 2017] [wsgi:error] [pid 2771:tid 3050810176]     return self._render(context)
+[Thu Jun 15 13:20:21.583931 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:20:21.583977 2017] [wsgi:error] [pid 2771:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:20:21.595965 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:20:21.595977 2017] [wsgi:error] [pid 2771:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:20:21.595983 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:20:21.595990 2017] [wsgi:error] [pid 2771:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:20:21.595996 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:20:21.596002 2017] [wsgi:error] [pid 2771:tid 3050810176]     return compiled_parent._render(context)
+[Thu Jun 15 13:20:21.596008 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:20:21.596014 2017] [wsgi:error] [pid 2771:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:20:21.596020 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:20:21.596026 2017] [wsgi:error] [pid 2771:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:20:21.596032 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:20:21.596038 2017] [wsgi:error] [pid 2771:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:20:21.596044 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:20:21.596051 2017] [wsgi:error] [pid 2771:tid 3050810176]     result = block.nodelist.render(context)
+[Thu Jun 15 13:20:21.596056 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:20:21.596063 2017] [wsgi:error] [pid 2771:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:20:21.596068 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:20:21.596074 2017] [wsgi:error] [pid 2771:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:20:21.596080 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:20:21.596108 2017] [wsgi:error] [pid 2771:tid 3050810176]     len_values = len(values)
+[Thu Jun 15 13:20:21.596121 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:20:21.596132 2017] [wsgi:error] [pid 2771:tid 3050810176]     self._fetch_all()
+[Thu Jun 15 13:20:21.596144 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:20:21.596156 2017] [wsgi:error] [pid 2771:tid 3050810176]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:20:21.596167 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:20:21.596179 2017] [wsgi:error] [pid 2771:tid 3050810176]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:20:21.596191 2017] [wsgi:error] [pid 2771:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:20:21.596203 2017] [wsgi:error] [pid 2771:tid 3050810176]     raise original_exception
+[Thu Jun 15 13:20:21.596214 2017] [wsgi:error] [pid 2771:tid 3050810176] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:21:10.184182 2017] [wsgi:error] [pid 2883:tid 3050810176] Internal Server Error: /
+[Thu Jun 15 13:21:10.184331 2017] [wsgi:error] [pid 2883:tid 3050810176] Traceback (most recent call last):
+[Thu Jun 15 13:21:10.184345 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:21:10.184357 2017] [wsgi:error] [pid 2883:tid 3050810176]     response = get_response(request)
+[Thu Jun 15 13:21:10.184377 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:21:10.184391 2017] [wsgi:error] [pid 2883:tid 3050810176]     response = self._get_response(request)
+[Thu Jun 15 13:21:10.184403 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:21:10.184415 2017] [wsgi:error] [pid 2883:tid 3050810176]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:21:10.184427 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:21:10.184439 2017] [wsgi:error] [pid 2883:tid 3050810176]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:21:10.184450 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:21:10.184462 2017] [wsgi:error] [pid 2883:tid 3050810176]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:21:10.184474 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:21:10.184485 2017] [wsgi:error] [pid 2883:tid 3050810176]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:21:10.184497 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:21:10.184528 2017] [wsgi:error] [pid 2883:tid 3050810176]     return template.render(context, request)
+[Thu Jun 15 13:21:10.184542 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:21:10.184587 2017] [wsgi:error] [pid 2883:tid 3050810176]     return self.template.render(context)
+[Thu Jun 15 13:21:10.184599 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:21:10.184610 2017] [wsgi:error] [pid 2883:tid 3050810176]     return self._render(context)
+[Thu Jun 15 13:21:10.184622 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:21:10.184633 2017] [wsgi:error] [pid 2883:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:21:10.184644 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:21:10.184655 2017] [wsgi:error] [pid 2883:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:21:10.184666 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:21:10.184677 2017] [wsgi:error] [pid 2883:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:21:10.184689 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:21:10.184708 2017] [wsgi:error] [pid 2883:tid 3050810176]     return compiled_parent._render(context)
+[Thu Jun 15 13:21:10.184720 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:21:10.184731 2017] [wsgi:error] [pid 2883:tid 3050810176]     return self.nodelist.render(context)
+[Thu Jun 15 13:21:10.184742 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:21:10.184753 2017] [wsgi:error] [pid 2883:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:21:10.184764 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:21:10.184776 2017] [wsgi:error] [pid 2883:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:21:10.184787 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:21:10.184798 2017] [wsgi:error] [pid 2883:tid 3050810176]     result = block.nodelist.render(context)
+[Thu Jun 15 13:21:10.184809 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:21:10.184821 2017] [wsgi:error] [pid 2883:tid 3050810176]     bit = node.render_annotated(context)
+[Thu Jun 15 13:21:10.184832 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:21:10.184843 2017] [wsgi:error] [pid 2883:tid 3050810176]     return self.render(context)
+[Thu Jun 15 13:21:10.184854 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:21:10.184865 2017] [wsgi:error] [pid 2883:tid 3050810176]     len_values = len(values)
+[Thu Jun 15 13:21:10.184876 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:21:10.184888 2017] [wsgi:error] [pid 2883:tid 3050810176]     self._fetch_all()
+[Thu Jun 15 13:21:10.184899 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:21:10.184928 2017] [wsgi:error] [pid 2883:tid 3050810176]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:21:10.184939 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:21:10.184951 2017] [wsgi:error] [pid 2883:tid 3050810176]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:21:10.184962 2017] [wsgi:error] [pid 2883:tid 3050810176]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:21:10.184980 2017] [wsgi:error] [pid 2883:tid 3050810176]     raise original_exception
+[Thu Jun 15 13:21:10.184994 2017] [wsgi:error] [pid 2883:tid 3050810176] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:48:46.873176 2017] [wsgi:error] [pid 3279:tid 3042417472] Internal Server Error: /
+[Thu Jun 15 13:48:46.873310 2017] [wsgi:error] [pid 3279:tid 3042417472] Traceback (most recent call last):
+[Thu Jun 15 13:48:46.873323 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:48:46.873336 2017] [wsgi:error] [pid 3279:tid 3042417472]     response = get_response(request)
+[Thu Jun 15 13:48:46.873348 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:48:46.873359 2017] [wsgi:error] [pid 3279:tid 3042417472]     response = self._get_response(request)
+[Thu Jun 15 13:48:46.873371 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:48:46.873383 2017] [wsgi:error] [pid 3279:tid 3042417472]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:48:46.873404 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:48:46.873417 2017] [wsgi:error] [pid 3279:tid 3042417472]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:48:46.873429 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:48:46.873441 2017] [wsgi:error] [pid 3279:tid 3042417472]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:48:46.873453 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:48:46.873465 2017] [wsgi:error] [pid 3279:tid 3042417472]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:48:46.873477 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:48:46.873489 2017] [wsgi:error] [pid 3279:tid 3042417472]     return template.render(context, request)
+[Thu Jun 15 13:48:46.873516 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:48:46.873534 2017] [wsgi:error] [pid 3279:tid 3042417472]     return self.template.render(context)
+[Thu Jun 15 13:48:46.873546 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:48:46.873558 2017] [wsgi:error] [pid 3279:tid 3042417472]     return self._render(context)
+[Thu Jun 15 13:48:46.873569 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:48:46.873605 2017] [wsgi:error] [pid 3279:tid 3042417472]     return self.nodelist.render(context)
+[Thu Jun 15 13:48:46.873617 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:48:46.873628 2017] [wsgi:error] [pid 3279:tid 3042417472]     bit = node.render_annotated(context)
+[Thu Jun 15 13:48:46.873640 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:48:46.873651 2017] [wsgi:error] [pid 3279:tid 3042417472]     return self.render(context)
+[Thu Jun 15 13:48:46.873663 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:48:46.873674 2017] [wsgi:error] [pid 3279:tid 3042417472]     return compiled_parent._render(context)
+[Thu Jun 15 13:48:46.873685 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:48:46.873697 2017] [wsgi:error] [pid 3279:tid 3042417472]     return self.nodelist.render(context)
+[Thu Jun 15 13:48:46.873717 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:48:46.873731 2017] [wsgi:error] [pid 3279:tid 3042417472]     bit = node.render_annotated(context)
+[Thu Jun 15 13:48:46.873742 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:48:46.873754 2017] [wsgi:error] [pid 3279:tid 3042417472]     return self.render(context)
+[Thu Jun 15 13:48:46.873765 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:48:46.873776 2017] [wsgi:error] [pid 3279:tid 3042417472]     result = block.nodelist.render(context)
+[Thu Jun 15 13:48:46.873788 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:48:46.873799 2017] [wsgi:error] [pid 3279:tid 3042417472]     bit = node.render_annotated(context)
+[Thu Jun 15 13:48:46.873810 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:48:46.873822 2017] [wsgi:error] [pid 3279:tid 3042417472]     return self.render(context)
+[Thu Jun 15 13:48:46.873833 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:48:46.873845 2017] [wsgi:error] [pid 3279:tid 3042417472]     len_values = len(values)
+[Thu Jun 15 13:48:46.873856 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:48:46.873867 2017] [wsgi:error] [pid 3279:tid 3042417472]     self._fetch_all()
+[Thu Jun 15 13:48:46.873879 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:48:46.873890 2017] [wsgi:error] [pid 3279:tid 3042417472]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:48:46.873901 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:48:46.873913 2017] [wsgi:error] [pid 3279:tid 3042417472]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:48:46.873938 2017] [wsgi:error] [pid 3279:tid 3042417472]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:48:46.873950 2017] [wsgi:error] [pid 3279:tid 3042417472]     raise original_exception
+[Thu Jun 15 13:48:46.873961 2017] [wsgi:error] [pid 3279:tid 3042417472] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:48:48.756532 2017] [wsgi:error] [pid 3278:tid 3050810176] Not Found: /favicon.ico
+[Thu Jun 15 13:49:01.771695 2017] [wsgi:error] [pid 3279:tid 3034024768] Internal Server Error: /
+[Thu Jun 15 13:49:01.771828 2017] [wsgi:error] [pid 3279:tid 3034024768] Traceback (most recent call last):
+[Thu Jun 15 13:49:01.771869 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:49:01.771897 2017] [wsgi:error] [pid 3279:tid 3034024768]     response = get_response(request)
+[Thu Jun 15 13:49:01.771924 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:49:01.771950 2017] [wsgi:error] [pid 3279:tid 3034024768]     response = self._get_response(request)
+[Thu Jun 15 13:49:01.771975 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:49:01.772009 2017] [wsgi:error] [pid 3279:tid 3034024768]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:49:01.772023 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:49:01.772035 2017] [wsgi:error] [pid 3279:tid 3034024768]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:49:01.772046 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:49:01.772058 2017] [wsgi:error] [pid 3279:tid 3034024768]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:49:01.772069 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:49:01.772080 2017] [wsgi:error] [pid 3279:tid 3034024768]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:49:01.772092 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:49:01.772104 2017] [wsgi:error] [pid 3279:tid 3034024768]     return template.render(context, request)
+[Thu Jun 15 13:49:01.772115 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:49:01.772126 2017] [wsgi:error] [pid 3279:tid 3034024768]     return self.template.render(context)
+[Thu Jun 15 13:49:01.772137 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:49:01.772149 2017] [wsgi:error] [pid 3279:tid 3034024768]     return self._render(context)
+[Thu Jun 15 13:49:01.772169 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:49:01.772182 2017] [wsgi:error] [pid 3279:tid 3034024768]     return self.nodelist.render(context)
+[Thu Jun 15 13:49:01.772194 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:49:01.772205 2017] [wsgi:error] [pid 3279:tid 3034024768]     bit = node.render_annotated(context)
+[Thu Jun 15 13:49:01.772253 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:49:01.772265 2017] [wsgi:error] [pid 3279:tid 3034024768]     return self.render(context)
+[Thu Jun 15 13:49:01.772277 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:49:01.772288 2017] [wsgi:error] [pid 3279:tid 3034024768]     return compiled_parent._render(context)
+[Thu Jun 15 13:49:01.772299 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:49:01.772311 2017] [wsgi:error] [pid 3279:tid 3034024768]     return self.nodelist.render(context)
+[Thu Jun 15 13:49:01.772322 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:49:01.772333 2017] [wsgi:error] [pid 3279:tid 3034024768]     bit = node.render_annotated(context)
+[Thu Jun 15 13:49:01.772345 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:49:01.772356 2017] [wsgi:error] [pid 3279:tid 3034024768]     return self.render(context)
+[Thu Jun 15 13:49:01.772368 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:49:01.772379 2017] [wsgi:error] [pid 3279:tid 3034024768]     result = block.nodelist.render(context)
+[Thu Jun 15 13:49:01.772390 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:49:01.772402 2017] [wsgi:error] [pid 3279:tid 3034024768]     bit = node.render_annotated(context)
+[Thu Jun 15 13:49:01.772413 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:49:01.772424 2017] [wsgi:error] [pid 3279:tid 3034024768]     return self.render(context)
+[Thu Jun 15 13:49:01.772436 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:49:01.772447 2017] [wsgi:error] [pid 3279:tid 3034024768]     len_values = len(values)
+[Thu Jun 15 13:49:01.772458 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:49:01.772478 2017] [wsgi:error] [pid 3279:tid 3034024768]     self._fetch_all()
+[Thu Jun 15 13:49:01.772489 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:49:01.772501 2017] [wsgi:error] [pid 3279:tid 3034024768]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:49:01.772512 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:49:01.772523 2017] [wsgi:error] [pid 3279:tid 3034024768]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:49:01.772535 2017] [wsgi:error] [pid 3279:tid 3034024768]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:49:01.772546 2017] [wsgi:error] [pid 3279:tid 3034024768]     raise original_exception
+[Thu Jun 15 13:49:01.772557 2017] [wsgi:error] [pid 3279:tid 3034024768] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 13:54:49.276451 2017] [wsgi:error] [pid 3278:tid 3025632064] Internal Server Error: /
+[Thu Jun 15 13:54:49.276559 2017] [wsgi:error] [pid 3278:tid 3025632064] Traceback (most recent call last):
+[Thu Jun 15 13:54:49.276573 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Thu Jun 15 13:54:49.276585 2017] [wsgi:error] [pid 3278:tid 3025632064]     response = get_response(request)
+[Thu Jun 15 13:54:49.276596 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Thu Jun 15 13:54:49.276608 2017] [wsgi:error] [pid 3278:tid 3025632064]     response = self._get_response(request)
+[Thu Jun 15 13:54:49.276619 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Thu Jun 15 13:54:49.276631 2017] [wsgi:error] [pid 3278:tid 3025632064]     response = self.process_exception_by_middleware(e, request)
+[Thu Jun 15 13:54:49.276642 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Thu Jun 15 13:54:49.276654 2017] [wsgi:error] [pid 3278:tid 3025632064]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Thu Jun 15 13:54:49.276665 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Thu Jun 15 13:54:49.276714 2017] [wsgi:error] [pid 3278:tid 3025632064]     return render(request, 'sportapp/list.html', context)
+[Thu Jun 15 13:54:49.276728 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Thu Jun 15 13:54:49.276739 2017] [wsgi:error] [pid 3278:tid 3025632064]     content = loader.render_to_string(template_name, context, request, using=using)
+[Thu Jun 15 13:54:49.276751 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Thu Jun 15 13:54:49.276762 2017] [wsgi:error] [pid 3278:tid 3025632064]     return template.render(context, request)
+[Thu Jun 15 13:54:49.276773 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Thu Jun 15 13:54:49.276785 2017] [wsgi:error] [pid 3278:tid 3025632064]     return self.template.render(context)
+[Thu Jun 15 13:54:49.276796 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Thu Jun 15 13:54:49.276807 2017] [wsgi:error] [pid 3278:tid 3025632064]     return self._render(context)
+[Thu Jun 15 13:54:49.276819 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:54:49.276830 2017] [wsgi:error] [pid 3278:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 13:54:49.276841 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:54:49.276853 2017] [wsgi:error] [pid 3278:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 13:54:49.276864 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:54:49.276875 2017] [wsgi:error] [pid 3278:tid 3025632064]     return self.render(context)
+[Thu Jun 15 13:54:49.276887 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Thu Jun 15 13:54:49.276898 2017] [wsgi:error] [pid 3278:tid 3025632064]     return compiled_parent._render(context)
+[Thu Jun 15 13:54:49.276923 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Thu Jun 15 13:54:49.276935 2017] [wsgi:error] [pid 3278:tid 3025632064]     return self.nodelist.render(context)
+[Thu Jun 15 13:54:49.276946 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:54:49.276958 2017] [wsgi:error] [pid 3278:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 13:54:49.276969 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:54:49.276980 2017] [wsgi:error] [pid 3278:tid 3025632064]     return self.render(context)
+[Thu Jun 15 13:54:49.276999 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Thu Jun 15 13:54:49.277011 2017] [wsgi:error] [pid 3278:tid 3025632064]     result = block.nodelist.render(context)
+[Thu Jun 15 13:54:49.277022 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Thu Jun 15 13:54:49.277033 2017] [wsgi:error] [pid 3278:tid 3025632064]     bit = node.render_annotated(context)
+[Thu Jun 15 13:54:49.277044 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Thu Jun 15 13:54:49.277056 2017] [wsgi:error] [pid 3278:tid 3025632064]     return self.render(context)
+[Thu Jun 15 13:54:49.277067 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Thu Jun 15 13:54:49.277078 2017] [wsgi:error] [pid 3278:tid 3025632064]     len_values = len(values)
+[Thu Jun 15 13:54:49.277090 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Thu Jun 15 13:54:49.277101 2017] [wsgi:error] [pid 3278:tid 3025632064]     self._fetch_all()
+[Thu Jun 15 13:54:49.277112 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Thu Jun 15 13:54:49.277124 2017] [wsgi:error] [pid 3278:tid 3025632064]     self._result_cache = list(self._iterable_class(self))
+[Thu Jun 15 13:54:49.277135 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Thu Jun 15 13:54:49.277147 2017] [wsgi:error] [pid 3278:tid 3025632064]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Thu Jun 15 13:54:49.277158 2017] [wsgi:error] [pid 3278:tid 3025632064]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Thu Jun 15 13:54:49.277169 2017] [wsgi:error] [pid 3278:tid 3025632064]     raise original_exception
+[Thu Jun 15 13:54:49.277181 2017] [wsgi:error] [pid 3278:tid 3025632064] OperationalError: no such column: sportapp_tourney.typer
+[Thu Jun 15 15:15:04.353075 2017] [wsgi:error] [pid 534:tid 3041909568] Not Found: /favicon.ico
+[Thu Jun 15 15:16:03.381783 2017] [wsgi:error] [pid 533:tid 3050302272] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 15:16:03.385940 2017] [wsgi:error] [pid 534:tid 3050302272] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 15:16:03.450058 2017] [wsgi:error] [pid 534:tid 3041909568] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:16:03.731042 2017] [wsgi:error] [pid 533:tid 3041909568] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:17:15.118518 2017] [wsgi:error] [pid 533:tid 3050302272] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 15:17:15.120757 2017] [wsgi:error] [pid 534:tid 3041909568] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 15:17:15.137031 2017] [wsgi:error] [pid 533:tid 3041909568] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:17:15.365884 2017] [wsgi:error] [pid 534:tid 3050302272] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:17:16.560527 2017] [wsgi:error] [pid 534:tid 3041909568] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 15:17:16.570191 2017] [wsgi:error] [pid 533:tid 3041909568] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 15:17:16.581544 2017] [wsgi:error] [pid 534:tid 3050302272] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:17:16.984521 2017] [wsgi:error] [pid 533:tid 3025124160] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:17:51.265765 2017] [wsgi:error] [pid 1782:tid 3025124160] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 15:17:52.536959 2017] [wsgi:error] [pid 1783:tid 3050302272] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 15:17:52.543688 2017] [wsgi:error] [pid 1783:tid 3025124160] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:17:52.701088 2017] [wsgi:error] [pid 1782:tid 3050302272] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:17:57.734735 2017] [wsgi:error] [pid 1782:tid 3025124160] Not Found: /static/admin/css/base.css
+[Thu Jun 15 15:17:57.744904 2017] [wsgi:error] [pid 1783:tid 3025124160] Not Found: /static/admin/css/dashboard.css
+[Thu Jun 15 15:18:01.233368 2017] [wsgi:error] [pid 1783:tid 3033516864] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 15:18:01.243042 2017] [wsgi:error] [pid 1782:tid 3025124160] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 15:18:01.252101 2017] [wsgi:error] [pid 1783:tid 3025124160] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:18:01.426998 2017] [wsgi:error] [pid 1782:tid 3050302272] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:18:05.375131 2017] [wsgi:error] [pid 1782:tid 3025124160] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 15:18:05.386135 2017] [wsgi:error] [pid 1782:tid 3050302272] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:18:05.392496 2017] [wsgi:error] [pid 1783:tid 3025124160] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 15:18:17.526773 2017] [wsgi:error] [pid 1782:tid 3025124160] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Thu Jun 15 15:18:17.539628 2017] [wsgi:error] [pid 1783:tid 3025124160] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Thu Jun 15 15:18:17.548993 2017] [wsgi:error] [pid 1782:tid 3050302272] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Thu Jun 15 15:18:17.717552 2017] [wsgi:error] [pid 1783:tid 3033516864] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:10.907719 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /favicon.ico
+[Fri Jun 16 12:42:11.317423 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:42:11.319791 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:42:11.334836 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:11.577771 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:28.909094 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:42:28.920549 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:28.923847 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:42:29.106595 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:30.784226 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:30.786292 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:42:30.792705 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:42:30.950564 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:36.076921 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:42:36.080663 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:42:36.095911 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:36.316089 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:42:56.367739 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:42:56.378650 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:42:56.383789 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:10.339577 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:45:10.350276 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:45:10.354016 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:10.611281 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:17.973591 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:45:17.983316 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:45:17.991549 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:18.321013 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:19.372035 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:19.372677 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:45:19.375305 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:45:19.672979 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:26.110464 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:45:26.113996 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:45:26.122948 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:26.313474 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:56.839527 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:45:56.871151 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:45:56.879570 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:57.211379 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:58.148982 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:45:58.151572 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:45:58.162911 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:45:58.358975 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:46:03.048197 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:46:03.072334 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:46:03.075514 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:46:03.244908 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:46:10.170350 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:46:10.183180 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:46:10.206672 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:51:10.854899 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:51:10.890580 2017] [wsgi:error] [pid 1836:tid 3025460032] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:51:10.892835 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:51:11.226138 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:51:13.336252 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:51:13.358332 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:51:13.364097 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:51:13.586777 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:52:59.262619 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:52:59.271904 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:52:59.275824 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:54:58.650896 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:54:58.654154 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:54:58.667895 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:54:59.051434 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:55:00.865559 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:55:00.873137 2017] [wsgi:error] [pid 1835:tid 3033852736] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:55:00.884301 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:55:01.119021 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /sport/sports/\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:55:03.007757 2017] [wsgi:error] [pid 1836:tid 3033852736] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Fri Jun 16 12:55:03.017799 2017] [wsgi:error] [pid 1835:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Fri Jun 16 12:55:03.022362 2017] [wsgi:error] [pid 1836:tid 3050638144] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Fri Jun 16 12:55:03.230894 2017] [wsgi:error] [pid 1835:tid 3025460032] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:04:19.032668 2017] [wsgi:error] [pid 551:tid 3049937728] Not Found: /favicon.ico
+[Mon Jun 19 12:15:33.401928 2017] [wsgi:error] [pid 1873:tid 3049937728] Internal Server Error: /
+[Mon Jun 19 12:15:33.402066 2017] [wsgi:error] [pid 1873:tid 3049937728] Traceback (most recent call last):
+[Mon Jun 19 12:15:33.402080 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 12:15:33.402101 2017] [wsgi:error] [pid 1873:tid 3049937728]     response = get_response(request)
+[Mon Jun 19 12:15:33.402115 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 12:15:33.402127 2017] [wsgi:error] [pid 1873:tid 3049937728]     response = self._get_response(request)
+[Mon Jun 19 12:15:33.402139 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Mon Jun 19 12:15:33.402151 2017] [wsgi:error] [pid 1873:tid 3049937728]     response = self.process_exception_by_middleware(e, request)
+[Mon Jun 19 12:15:33.402164 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Mon Jun 19 12:15:33.402176 2017] [wsgi:error] [pid 1873:tid 3049937728]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Mon Jun 19 12:15:33.402188 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Mon Jun 19 12:15:33.402200 2017] [wsgi:error] [pid 1873:tid 3049937728]     return render(request, 'sportapp/list.html', context)
+[Mon Jun 19 12:15:33.402212 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Mon Jun 19 12:15:33.402224 2017] [wsgi:error] [pid 1873:tid 3049937728]     content = loader.render_to_string(template_name, context, request, using=using)
+[Mon Jun 19 12:15:33.402236 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Mon Jun 19 12:15:33.402248 2017] [wsgi:error] [pid 1873:tid 3049937728]     return template.render(context, request)
+[Mon Jun 19 12:15:33.402260 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Mon Jun 19 12:15:33.402272 2017] [wsgi:error] [pid 1873:tid 3049937728]     return self.template.render(context)
+[Mon Jun 19 12:15:33.402284 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Mon Jun 19 12:15:33.402305 2017] [wsgi:error] [pid 1873:tid 3049937728]     return self._render(context)
+[Mon Jun 19 12:15:33.402318 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Mon Jun 19 12:15:33.402330 2017] [wsgi:error] [pid 1873:tid 3049937728]     return self.nodelist.render(context)
+[Mon Jun 19 12:15:33.402342 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Mon Jun 19 12:15:33.402354 2017] [wsgi:error] [pid 1873:tid 3049937728]     bit = node.render_annotated(context)
+[Mon Jun 19 12:15:33.402366 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Mon Jun 19 12:15:33.402400 2017] [wsgi:error] [pid 1873:tid 3049937728]     return self.render(context)
+[Mon Jun 19 12:15:33.402420 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Mon Jun 19 12:15:33.402432 2017] [wsgi:error] [pid 1873:tid 3049937728]     return compiled_parent._render(context)
+[Mon Jun 19 12:15:33.402444 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Mon Jun 19 12:15:33.402456 2017] [wsgi:error] [pid 1873:tid 3049937728]     return self.nodelist.render(context)
+[Mon Jun 19 12:15:33.402468 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Mon Jun 19 12:15:33.402480 2017] [wsgi:error] [pid 1873:tid 3049937728]     bit = node.render_annotated(context)
+[Mon Jun 19 12:15:33.402525 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Mon Jun 19 12:15:33.402538 2017] [wsgi:error] [pid 1873:tid 3049937728]     return self.render(context)
+[Mon Jun 19 12:15:33.402550 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Mon Jun 19 12:15:33.402561 2017] [wsgi:error] [pid 1873:tid 3049937728]     result = block.nodelist.render(context)
+[Mon Jun 19 12:15:33.402573 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Mon Jun 19 12:15:33.402603 2017] [wsgi:error] [pid 1873:tid 3049937728]     bit = node.render_annotated(context)
+[Mon Jun 19 12:15:33.402615 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Mon Jun 19 12:15:33.402627 2017] [wsgi:error] [pid 1873:tid 3049937728]     return self.render(context)
+[Mon Jun 19 12:15:33.402638 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Mon Jun 19 12:15:33.402650 2017] [wsgi:error] [pid 1873:tid 3049937728]     len_values = len(values)
+[Mon Jun 19 12:15:33.402662 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Mon Jun 19 12:15:33.402674 2017] [wsgi:error] [pid 1873:tid 3049937728]     self._fetch_all()
+[Mon Jun 19 12:15:33.402686 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Mon Jun 19 12:15:33.402697 2017] [wsgi:error] [pid 1873:tid 3049937728]     self._result_cache = list(self._iterable_class(self))
+[Mon Jun 19 12:15:33.402709 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Mon Jun 19 12:15:33.402722 2017] [wsgi:error] [pid 1873:tid 3049937728]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Mon Jun 19 12:15:33.402733 2017] [wsgi:error] [pid 1873:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Mon Jun 19 12:15:33.402745 2017] [wsgi:error] [pid 1873:tid 3049937728]     raise original_exception
+[Mon Jun 19 12:15:33.402764 2017] [wsgi:error] [pid 1873:tid 3049937728] OperationalError: no such column: sportapp_tourney.typer
+[Mon Jun 19 12:16:31.781968 2017] [wsgi:error] [pid 1874:tid 3033152320] Internal Server Error: /
+[Mon Jun 19 12:16:31.782108 2017] [wsgi:error] [pid 1874:tid 3033152320] Traceback (most recent call last):
+[Mon Jun 19 12:16:31.782149 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 12:16:31.782156 2017] [wsgi:error] [pid 1874:tid 3033152320]     response = get_response(request)
+[Mon Jun 19 12:16:31.782163 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 12:16:31.782169 2017] [wsgi:error] [pid 1874:tid 3033152320]     response = self._get_response(request)
+[Mon Jun 19 12:16:31.782175 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Mon Jun 19 12:16:31.782181 2017] [wsgi:error] [pid 1874:tid 3033152320]     response = self.process_exception_by_middleware(e, request)
+[Mon Jun 19 12:16:31.782187 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Mon Jun 19 12:16:31.782193 2017] [wsgi:error] [pid 1874:tid 3033152320]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Mon Jun 19 12:16:31.782199 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 85, in list_view
+[Mon Jun 19 12:16:31.782205 2017] [wsgi:error] [pid 1874:tid 3033152320]     return render(request, 'sportapp/list.html', context)
+[Mon Jun 19 12:16:31.782211 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+[Mon Jun 19 12:16:31.782217 2017] [wsgi:error] [pid 1874:tid 3033152320]     content = loader.render_to_string(template_name, context, request, using=using)
+[Mon Jun 19 12:16:31.782223 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+[Mon Jun 19 12:16:31.782230 2017] [wsgi:error] [pid 1874:tid 3033152320]     return template.render(context, request)
+[Mon Jun 19 12:16:31.782235 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+[Mon Jun 19 12:16:31.782241 2017] [wsgi:error] [pid 1874:tid 3033152320]     return self.template.render(context)
+[Mon Jun 19 12:16:31.782247 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 207, in render
+[Mon Jun 19 12:16:31.782253 2017] [wsgi:error] [pid 1874:tid 3033152320]     return self._render(context)
+[Mon Jun 19 12:16:31.782259 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Mon Jun 19 12:16:31.782265 2017] [wsgi:error] [pid 1874:tid 3033152320]     return self.nodelist.render(context)
+[Mon Jun 19 12:16:31.782271 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Mon Jun 19 12:16:31.782277 2017] [wsgi:error] [pid 1874:tid 3033152320]     bit = node.render_annotated(context)
+[Mon Jun 19 12:16:31.782283 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Mon Jun 19 12:16:31.782288 2017] [wsgi:error] [pid 1874:tid 3033152320]     return self.render(context)
+[Mon Jun 19 12:16:31.782294 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 177, in render
+[Mon Jun 19 12:16:31.782300 2017] [wsgi:error] [pid 1874:tid 3033152320]     return compiled_parent._render(context)
+[Mon Jun 19 12:16:31.782306 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+[Mon Jun 19 12:16:31.782316 2017] [wsgi:error] [pid 1874:tid 3033152320]     return self.nodelist.render(context)
+[Mon Jun 19 12:16:31.782323 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Mon Jun 19 12:16:31.782329 2017] [wsgi:error] [pid 1874:tid 3033152320]     bit = node.render_annotated(context)
+[Mon Jun 19 12:16:31.782335 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Mon Jun 19 12:16:31.782341 2017] [wsgi:error] [pid 1874:tid 3033152320]     return self.render(context)
+[Mon Jun 19 12:16:31.782347 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/loader_tags.py", line 72, in render
+[Mon Jun 19 12:16:31.782353 2017] [wsgi:error] [pid 1874:tid 3033152320]     result = block.nodelist.render(context)
+[Mon Jun 19 12:16:31.782359 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 990, in render
+[Mon Jun 19 12:16:31.782364 2017] [wsgi:error] [pid 1874:tid 3033152320]     bit = node.render_annotated(context)
+[Mon Jun 19 12:16:31.782370 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/base.py", line 957, in render_annotated
+[Mon Jun 19 12:16:31.782447 2017] [wsgi:error] [pid 1874:tid 3033152320]     return self.render(context)
+[Mon Jun 19 12:16:31.782455 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/template/defaulttags.py", line 173, in render
+[Mon Jun 19 12:16:31.782461 2017] [wsgi:error] [pid 1874:tid 3033152320]     len_values = len(values)
+[Mon Jun 19 12:16:31.782467 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 232, in __len__
+[Mon Jun 19 12:16:31.782473 2017] [wsgi:error] [pid 1874:tid 3033152320]     self._fetch_all()
+[Mon Jun 19 12:16:31.782479 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 1103, in _fetch_all
+[Mon Jun 19 12:16:31.782485 2017] [wsgi:error] [pid 1874:tid 3033152320]     self._result_cache = list(self._iterable_class(self))
+[Mon Jun 19 12:16:31.782491 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/query.py", line 53, in __iter__
+[Mon Jun 19 12:16:31.782497 2017] [wsgi:error] [pid 1874:tid 3033152320]     results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+[Mon Jun 19 12:16:31.782504 2017] [wsgi:error] [pid 1874:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+[Mon Jun 19 12:16:31.782510 2017] [wsgi:error] [pid 1874:tid 3033152320]     raise original_exception
+[Mon Jun 19 12:16:31.782516 2017] [wsgi:error] [pid 1874:tid 3033152320] OperationalError: no such column: sportapp_tourney.typer
+[Mon Jun 19 12:18:21.014279 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:18:21.024665 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:18:21.025622 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:18:21.273843 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:21:57.782144 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /static/admin/css/dashboard.css
+[Mon Jun 19 12:21:57.783758 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /static/admin/css/base.css
+[Mon Jun 19 12:22:17.340049 2017] [wsgi:error] [pid 1874:tid 3041545024] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:22:17.353348 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:22:17.363810 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:22:17.605989 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:24:26.465887 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:24:26.467223 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:24:26.473089 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:24:36.396177 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:24:36.408423 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:24:36.413775 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:24:36.613430 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:24:47.998699 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:24:48.034817 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:24:48.037801 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:24:48.194197 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:00.743733 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:25:00.751224 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:25:00.756412 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:00.956737 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:16.229216 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:25:16.255891 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:25:16.261994 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:16.402509 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /sport/loc/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:18.972404 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /sport/loc/29/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:25:19.010541 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /sport/loc/29/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:25:19.015849 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /sport/loc/29/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:19.155024 2017] [wsgi:error] [pid 1874:tid 3041545024] Not Found: /sport/loc/29/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:20.243640 2017] [wsgi:error] [pid 1873:tid 3024759616] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 12:25:20.249998 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 12:25:20.277301 2017] [wsgi:error] [pid 1874:tid 3041545024] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 12:25:20.602923 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js

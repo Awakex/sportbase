@@ -65,7 +65,12 @@ class Tourney(models.Model):
         related_name="worker_zam", verbose_name='Отв. зам')
     resp_uso = models.ForeignKey(Worker, null=True, blank=True,
         related_name="worker_uso", verbose_name='Отв. УСО')
-    
+    choice = (('1','Минспорт'), 
+	      ('2','Выезд'), 
+              ('3','Другое')) 
+    typer = models.CharField(choices=choice, max_length=25, default=1)
+	
+
     class Meta:
         ordering = ['date_start']
         verbose_name = "Соревнование"
