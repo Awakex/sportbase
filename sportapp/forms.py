@@ -50,3 +50,7 @@ class LocForm(ModelForm):
 class FilterForm(forms.Form):
       date_start = forms.DateField(label="Начало")
       date_end = forms.DateField(label="Конец")
+      choice = (('1', 'Минспорт'),
+                ('2', 'Выезд'),
+	        ('3', 'Другое'))
+      typer = forms.ChoiceField(choices=choice,label="Организация")

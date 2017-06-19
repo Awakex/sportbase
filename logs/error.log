@@ -1858,3 +1858,231 @@
 [Mon Jun 19 12:25:20.249998 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.css
 [Mon Jun 19 12:25:20.277301 2017] [wsgi:error] [pid 1874:tid 3041545024] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
 [Mon Jun 19 12:25:20.602923 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:08:43.533471 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /filter
+[Mon Jun 19 13:08:47.554536 2017] [wsgi:error] [pid 1874:tid 3041545024] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:08:47.565309 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:08:47.571026 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:08:51.834726 2017] [wsgi:error] [pid 1874:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:08:51.840567 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:08:51.849069 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:08:52.005976 2017] [wsgi:error] [pid 1873:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:12:45.362125 2017] [wsgi:error] [pid 1873:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:12:45.384119 2017] [wsgi:error] [pid 1873:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:12:45.385494 2017] [wsgi:error] [pid 1874:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:12:45.624606 2017] [wsgi:error] [pid 1874:tid 3041545024] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:13:01.400663 2017] [wsgi:error] [pid 2539:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:13:02.567122 2017] [wsgi:error] [pid 2540:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:13:02.575882 2017] [wsgi:error] [pid 2540:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:13:02.712367 2017] [wsgi:error] [pid 2539:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:13:16.328311 2017] [wsgi:error] [pid 2540:tid 3033152320] Not Found: /filter
+[Mon Jun 19 13:13:47.649523 2017] [wsgi:error] [pid 2539:tid 3024759616] Not Found: /filter/1
+[Mon Jun 19 13:13:54.700083 2017] [wsgi:error] [pid 2540:tid 3049937728] Internal Server Error: /sport/filter/
+[Mon Jun 19 13:13:54.700139 2017] [wsgi:error] [pid 2540:tid 3049937728] Traceback (most recent call last):
+[Mon Jun 19 13:13:54.700152 2017] [wsgi:error] [pid 2540:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 13:13:54.700186 2017] [wsgi:error] [pid 2540:tid 3049937728]     response = get_response(request)
+[Mon Jun 19 13:13:54.700199 2017] [wsgi:error] [pid 2540:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 13:13:54.700211 2017] [wsgi:error] [pid 2540:tid 3049937728]     response = self._get_response(request)
+[Mon Jun 19 13:13:54.700224 2017] [wsgi:error] [pid 2540:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Mon Jun 19 13:13:54.700236 2017] [wsgi:error] [pid 2540:tid 3049937728]     response = self.process_exception_by_middleware(e, request)
+[Mon Jun 19 13:13:54.700248 2017] [wsgi:error] [pid 2540:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Mon Jun 19 13:13:54.700261 2017] [wsgi:error] [pid 2540:tid 3049937728]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Mon Jun 19 13:13:54.700274 2017] [wsgi:error] [pid 2540:tid 3049937728]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 192, in filter
+[Mon Jun 19 13:13:54.700286 2017] [wsgi:error] [pid 2540:tid 3049937728]     return render(request, 'sportapp/filter.html', {'form': form, 'tourney_list': tourney_list, 'resp_org':resp_org})
+[Mon Jun 19 13:13:54.700298 2017] [wsgi:error] [pid 2540:tid 3049937728] UnboundLocalError: local variable 'resp_org' referenced before assignment
+[Mon Jun 19 13:19:49.347963 2017] [wsgi:error] [pid 2699:tid 3049937728] Internal Server Error: /sport/filter/
+[Mon Jun 19 13:19:49.348095 2017] [wsgi:error] [pid 2699:tid 3049937728] Traceback (most recent call last):
+[Mon Jun 19 13:19:49.348109 2017] [wsgi:error] [pid 2699:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 13:19:49.348121 2017] [wsgi:error] [pid 2699:tid 3049937728]     response = get_response(request)
+[Mon Jun 19 13:19:49.348133 2017] [wsgi:error] [pid 2699:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 13:19:49.348155 2017] [wsgi:error] [pid 2699:tid 3049937728]     response = self._get_response(request)
+[Mon Jun 19 13:19:49.348167 2017] [wsgi:error] [pid 2699:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Mon Jun 19 13:19:49.348179 2017] [wsgi:error] [pid 2699:tid 3049937728]     response = self.process_exception_by_middleware(e, request)
+[Mon Jun 19 13:19:49.348191 2017] [wsgi:error] [pid 2699:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Mon Jun 19 13:19:49.348203 2017] [wsgi:error] [pid 2699:tid 3049937728]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Mon Jun 19 13:19:49.348215 2017] [wsgi:error] [pid 2699:tid 3049937728]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 192, in filter
+[Mon Jun 19 13:19:49.348227 2017] [wsgi:error] [pid 2699:tid 3049937728]     return render(request, 'sportapp/filter.html', {'form': form, 'tourney_list': tourney_list, 'resp_org':resp_org})
+[Mon Jun 19 13:19:49.348239 2017] [wsgi:error] [pid 2699:tid 3049937728] UnboundLocalError: local variable 'resp_org' referenced before assignment
+[Mon Jun 19 13:21:54.442062 2017] [wsgi:error] [pid 2817:tid 3049937728] Internal Server Error: /sport/filter/
+[Mon Jun 19 13:21:54.442248 2017] [wsgi:error] [pid 2817:tid 3049937728] Traceback (most recent call last):
+[Mon Jun 19 13:21:54.442262 2017] [wsgi:error] [pid 2817:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 13:21:54.442275 2017] [wsgi:error] [pid 2817:tid 3049937728]     response = get_response(request)
+[Mon Jun 19 13:21:54.442288 2017] [wsgi:error] [pid 2817:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 13:21:54.442300 2017] [wsgi:error] [pid 2817:tid 3049937728]     response = self._get_response(request)
+[Mon Jun 19 13:21:54.442313 2017] [wsgi:error] [pid 2817:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Mon Jun 19 13:21:54.442326 2017] [wsgi:error] [pid 2817:tid 3049937728]     response = self.process_exception_by_middleware(e, request)
+[Mon Jun 19 13:21:54.442338 2017] [wsgi:error] [pid 2817:tid 3049937728]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Mon Jun 19 13:21:54.442351 2017] [wsgi:error] [pid 2817:tid 3049937728]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Mon Jun 19 13:21:54.442363 2017] [wsgi:error] [pid 2817:tid 3049937728]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 193, in filter
+[Mon Jun 19 13:21:54.442376 2017] [wsgi:error] [pid 2817:tid 3049937728]     return render(request, 'sportapp/filter.html', {'form': form, 'tourney_list': tourney_list, 'resp_org':resp_org})
+[Mon Jun 19 13:21:54.442389 2017] [wsgi:error] [pid 2817:tid 3049937728] UnboundLocalError: local variable 'resp_org' referenced before assignment
+[Mon Jun 19 13:24:00.442988 2017] [wsgi:error] [pid 2922:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:24:01.777966 2017] [wsgi:error] [pid 2923:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:24:01.794685 2017] [wsgi:error] [pid 2923:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:24:01.913726 2017] [wsgi:error] [pid 2922:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:24:20.246244 2017] [wsgi:error] [pid 2923:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:24:20.255012 2017] [wsgi:error] [pid 2922:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:24:20.264564 2017] [wsgi:error] [pid 2922:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:24:20.550627 2017] [wsgi:error] [pid 2923:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:32:49.637230 2017] [wsgi:error] [pid 2922:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:32:49.646198 2017] [wsgi:error] [pid 2923:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:32:49.654683 2017] [wsgi:error] [pid 2923:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:32:49.898378 2017] [wsgi:error] [pid 2922:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:33:15.297078 2017] [wsgi:error] [pid 3053:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:33:16.551009 2017] [wsgi:error] [pid 3054:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:33:16.556295 2017] [wsgi:error] [pid 3054:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:33:16.670975 2017] [wsgi:error] [pid 3053:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:33:39.260455 2017] [wsgi:error] [pid 3054:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:33:39.288309 2017] [wsgi:error] [pid 3053:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:33:39.290752 2017] [wsgi:error] [pid 3053:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:33:39.483098 2017] [wsgi:error] [pid 3054:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:28.747947 2017] [wsgi:error] [pid 3054:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:34:28.780142 2017] [wsgi:error] [pid 3053:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:28.776462 2017] [wsgi:error] [pid 3054:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:34:29.010835 2017] [wsgi:error] [pid 3053:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:33.289528 2017] [wsgi:error] [pid 3054:tid 3041545024] Not Found: /\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:34:33.296117 2017] [wsgi:error] [pid 3053:tid 3033152320] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:33.297556 2017] [wsgi:error] [pid 3053:tid 3049937728] Not Found: /\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:34:33.468308 2017] [wsgi:error] [pid 3054:tid 3024759616] Not Found: /\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:34.998404 2017] [wsgi:error] [pid 3053:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:34:35.003681 2017] [wsgi:error] [pid 3054:tid 3041545024] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:34:35.022711 2017] [wsgi:error] [pid 3054:tid 3024759616] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:35.592135 2017] [wsgi:error] [pid 3053:tid 3024759616] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:45.472096 2017] [wsgi:error] [pid 3054:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:34:45.485883 2017] [wsgi:error] [pid 3053:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:34:45.498117 2017] [wsgi:error] [pid 3053:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:34:45.776652 2017] [wsgi:error] [pid 3054:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:35:03.127672 2017] [wsgi:error] [pid 3054:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:35:03.128676 2017] [wsgi:error] [pid 3054:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:35:03.133870 2017] [wsgi:error] [pid 3053:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:35:03.359912 2017] [wsgi:error] [pid 3053:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:36:55.324360 2017] [wsgi:error] [pid 3053:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:36:55.340341 2017] [wsgi:error] [pid 3054:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:36:55.349306 2017] [wsgi:error] [pid 3053:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:36:55.551901 2017] [wsgi:error] [pid 3054:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:36:56.935640 2017] [wsgi:error] [pid 3053:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:36:56.944060 2017] [wsgi:error] [pid 3054:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:36:56.955559 2017] [wsgi:error] [pid 3054:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:36:57.146819 2017] [wsgi:error] [pid 3053:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:42:59.465255 2017] [wsgi:error] [pid 3195:tid 3041545024] Internal Server Error: /sport/filter/
+[Mon Jun 19 13:42:59.465378 2017] [wsgi:error] [pid 3195:tid 3041545024] Traceback (most recent call last):
+[Mon Jun 19 13:42:59.465386 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 13:42:59.465393 2017] [wsgi:error] [pid 3195:tid 3041545024]     response = get_response(request)
+[Mon Jun 19 13:42:59.465400 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 13:42:59.465406 2017] [wsgi:error] [pid 3195:tid 3041545024]     response = self._get_response(request)
+[Mon Jun 19 13:42:59.465413 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+[Mon Jun 19 13:42:59.465419 2017] [wsgi:error] [pid 3195:tid 3041545024]     resolver_match = resolver.resolve(request.path_info)
+[Mon Jun 19 13:42:59.465426 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Mon Jun 19 13:42:59.465432 2017] [wsgi:error] [pid 3195:tid 3041545024]     for pattern in self.url_patterns:
+[Mon Jun 19 13:42:59.465439 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Mon Jun 19 13:42:59.465467 2017] [wsgi:error] [pid 3195:tid 3041545024]     res = instance.__dict__[self.name] = self.func(instance)
+[Mon Jun 19 13:42:59.465474 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Mon Jun 19 13:42:59.465507 2017] [wsgi:error] [pid 3195:tid 3041545024]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Mon Jun 19 13:42:59.465520 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Mon Jun 19 13:42:59.465537 2017] [wsgi:error] [pid 3195:tid 3041545024]     res = instance.__dict__[self.name] = self.func(instance)
+[Mon Jun 19 13:42:59.465551 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Mon Jun 19 13:42:59.465563 2017] [wsgi:error] [pid 3195:tid 3041545024]     return import_module(self.urlconf_name)
+[Mon Jun 19 13:42:59.465575 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Mon Jun 19 13:42:59.465587 2017] [wsgi:error] [pid 3195:tid 3041545024]     __import__(name)
+[Mon Jun 19 13:42:59.465599 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Mon Jun 19 13:42:59.465611 2017] [wsgi:error] [pid 3195:tid 3041545024]     from sportapp import views as sportviews
+[Mon Jun 19 13:42:59.465623 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 11, in <module>
+[Mon Jun 19 13:42:59.465635 2017] [wsgi:error] [pid 3195:tid 3041545024]     from .forms import UploadForm, TourneyFormSet, TourneyForm, LocForm, FilterForm
+[Mon Jun 19 13:42:59.465647 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/sportbase/sportapp/forms.py", line 50, in <module>
+[Mon Jun 19 13:42:59.465659 2017] [wsgi:error] [pid 3195:tid 3041545024]     class FilterForm(forms.Form):
+[Mon Jun 19 13:42:59.465671 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/sportbase/sportapp/forms.py", line 56, in FilterForm
+[Mon Jun 19 13:42:59.465684 2017] [wsgi:error] [pid 3195:tid 3041545024]     resp_org = forms.CharField(choices=choice,default=1,label="\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd")
+[Mon Jun 19 13:42:59.465696 2017] [wsgi:error] [pid 3195:tid 3041545024]   File "/home/pract/project_base/lib/python2.7/site-packages/django/forms/fields.py", line 228, in __init__
+[Mon Jun 19 13:42:59.465708 2017] [wsgi:error] [pid 3195:tid 3041545024]     super(CharField, self).__init__(*args, **kwargs)
+[Mon Jun 19 13:42:59.465721 2017] [wsgi:error] [pid 3195:tid 3041545024] TypeError: __init__() got an unexpected keyword argument 'default'
+[Mon Jun 19 13:43:24.590731 2017] [wsgi:error] [pid 3294:tid 3024759616] Internal Server Error: /sport/filter/
+[Mon Jun 19 13:43:24.590828 2017] [wsgi:error] [pid 3294:tid 3024759616] Traceback (most recent call last):
+[Mon Jun 19 13:43:24.590844 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 13:43:24.590864 2017] [wsgi:error] [pid 3294:tid 3024759616]     response = get_response(request)
+[Mon Jun 19 13:43:24.590885 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 13:43:24.590899 2017] [wsgi:error] [pid 3294:tid 3024759616]     response = self._get_response(request)
+[Mon Jun 19 13:43:24.590912 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 172, in _get_response
+[Mon Jun 19 13:43:24.590925 2017] [wsgi:error] [pid 3294:tid 3024759616]     resolver_match = resolver.resolve(request.path_info)
+[Mon Jun 19 13:43:24.590959 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 362, in resolve
+[Mon Jun 19 13:43:24.590981 2017] [wsgi:error] [pid 3294:tid 3024759616]     for pattern in self.url_patterns:
+[Mon Jun 19 13:43:24.591004 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Mon Jun 19 13:43:24.591036 2017] [wsgi:error] [pid 3294:tid 3024759616]     res = instance.__dict__[self.name] = self.func(instance)
+[Mon Jun 19 13:43:24.591063 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 405, in url_patterns
+[Mon Jun 19 13:43:24.591075 2017] [wsgi:error] [pid 3294:tid 3024759616]     patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+[Mon Jun 19 13:43:24.591087 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+[Mon Jun 19 13:43:24.591108 2017] [wsgi:error] [pid 3294:tid 3024759616]     res = instance.__dict__[self.name] = self.func(instance)
+[Mon Jun 19 13:43:24.591121 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/urls/resolvers.py", line 398, in urlconf_module
+[Mon Jun 19 13:43:24.591133 2017] [wsgi:error] [pid 3294:tid 3024759616]     return import_module(self.urlconf_name)
+[Mon Jun 19 13:43:24.591146 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+[Mon Jun 19 13:43:24.591158 2017] [wsgi:error] [pid 3294:tid 3024759616]     __import__(name)
+[Mon Jun 19 13:43:24.591169 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/sportbase/sportpro/urls.py", line 18, in <module>
+[Mon Jun 19 13:43:24.591182 2017] [wsgi:error] [pid 3294:tid 3024759616]     from sportapp import views as sportviews
+[Mon Jun 19 13:43:24.591194 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 11, in <module>
+[Mon Jun 19 13:43:24.591206 2017] [wsgi:error] [pid 3294:tid 3024759616]     from .forms import UploadForm, TourneyFormSet, TourneyForm, LocForm, FilterForm
+[Mon Jun 19 13:43:24.591218 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/sportbase/sportapp/forms.py", line 50, in <module>
+[Mon Jun 19 13:43:24.591230 2017] [wsgi:error] [pid 3294:tid 3024759616]     class FilterForm(forms.Form):
+[Mon Jun 19 13:43:24.591242 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/sportbase/sportapp/forms.py", line 56, in FilterForm
+[Mon Jun 19 13:43:24.591255 2017] [wsgi:error] [pid 3294:tid 3024759616]     resp_org = forms.CharField(choices=choice,label="\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd")
+[Mon Jun 19 13:43:24.591267 2017] [wsgi:error] [pid 3294:tid 3024759616]   File "/home/pract/project_base/lib/python2.7/site-packages/django/forms/fields.py", line 228, in __init__
+[Mon Jun 19 13:43:24.591280 2017] [wsgi:error] [pid 3294:tid 3024759616]     super(CharField, self).__init__(*args, **kwargs)
+[Mon Jun 19 13:43:24.591292 2017] [wsgi:error] [pid 3294:tid 3024759616] TypeError: __init__() got an unexpected keyword argument 'choices'
+[Mon Jun 19 13:44:51.998111 2017] [wsgi:error] [pid 3395:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:44:53.389556 2017] [wsgi:error] [pid 3396:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:44:53.395070 2017] [wsgi:error] [pid 3396:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:44:53.547237 2017] [wsgi:error] [pid 3395:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:45:14.029668 2017] [wsgi:error] [pid 3395:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:45:14.059441 2017] [wsgi:error] [pid 3395:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:45:14.069999 2017] [wsgi:error] [pid 3396:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:45:14.288118 2017] [wsgi:error] [pid 3396:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:45:24.951754 2017] [wsgi:error] [pid 3395:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:45:24.961467 2017] [wsgi:error] [pid 3396:tid 3049937728] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:45:24.964667 2017] [wsgi:error] [pid 3396:tid 3033152320] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:45:25.176120 2017] [wsgi:error] [pid 3395:tid 3033152320] Not Found: /sport/detail/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:57:41.351043 2017] [wsgi:error] [pid 3539:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:57:42.481590 2017] [wsgi:error] [pid 3540:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:57:42.487939 2017] [wsgi:error] [pid 3540:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:57:42.608455 2017] [wsgi:error] [pid 3539:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:57:56.717077 2017] [wsgi:error] [pid 3540:tid 3033152320] Internal Server Error: /sport/filter/
+[Mon Jun 19 13:57:56.717147 2017] [wsgi:error] [pid 3540:tid 3033152320] Traceback (most recent call last):
+[Mon Jun 19 13:57:56.717177 2017] [wsgi:error] [pid 3540:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+[Mon Jun 19 13:57:56.717191 2017] [wsgi:error] [pid 3540:tid 3033152320]     response = get_response(request)
+[Mon Jun 19 13:57:56.717205 2017] [wsgi:error] [pid 3540:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 249, in _legacy_get_response
+[Mon Jun 19 13:57:56.717218 2017] [wsgi:error] [pid 3540:tid 3033152320]     response = self._get_response(request)
+[Mon Jun 19 13:57:56.717232 2017] [wsgi:error] [pid 3540:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+[Mon Jun 19 13:57:56.717245 2017] [wsgi:error] [pid 3540:tid 3033152320]     response = self.process_exception_by_middleware(e, request)
+[Mon Jun 19 13:57:56.717258 2017] [wsgi:error] [pid 3540:tid 3033152320]   File "/home/pract/project_base/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+[Mon Jun 19 13:57:56.717272 2017] [wsgi:error] [pid 3540:tid 3033152320]     response = wrapped_callback(request, *callback_args, **callback_kwargs)
+[Mon Jun 19 13:57:56.717285 2017] [wsgi:error] [pid 3540:tid 3033152320]   File "/home/pract/project_base/sportbase/sportapp/views.py", line 188, in filter
+[Mon Jun 19 13:57:56.717298 2017] [wsgi:error] [pid 3540:tid 3033152320]     (Q(date_end__gte=date_start, date_end__lte=date_end)) |
+[Mon Jun 19 13:57:56.717311 2017] [wsgi:error] [pid 3540:tid 3033152320] NameError: global name 'resp_org' is not defined
+[Mon Jun 19 13:58:22.863806 2017] [wsgi:error] [pid 3645:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:58:24.114987 2017] [wsgi:error] [pid 3644:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:58:24.122467 2017] [wsgi:error] [pid 3644:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:58:24.275007 2017] [wsgi:error] [pid 3645:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:58:36.167760 2017] [wsgi:error] [pid 3645:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 13:58:36.184997 2017] [wsgi:error] [pid 3644:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 13:58:36.198654 2017] [wsgi:error] [pid 3645:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 13:58:36.590426 2017] [wsgi:error] [pid 3644:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:06:48.387141 2017] [wsgi:error] [pid 3776:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 14:06:49.547242 2017] [wsgi:error] [pid 3777:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:06:49.552444 2017] [wsgi:error] [pid 3777:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 14:06:49.681839 2017] [wsgi:error] [pid 3776:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:02.426386 2017] [wsgi:error] [pid 3776:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 14:07:02.434235 2017] [wsgi:error] [pid 3777:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 14:07:02.445990 2017] [wsgi:error] [pid 3776:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:02.675908 2017] [wsgi:error] [pid 3777:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:06.230777 2017] [wsgi:error] [pid 3776:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 14:07:06.247207 2017] [wsgi:error] [pid 3777:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 14:07:06.257450 2017] [wsgi:error] [pid 3777:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:06.508165 2017] [wsgi:error] [pid 3776:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:09.262809 2017] [wsgi:error] [pid 3777:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 14:07:09.271926 2017] [wsgi:error] [pid 3776:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 14:07:09.273282 2017] [wsgi:error] [pid 3776:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:09.451139 2017] [wsgi:error] [pid 3777:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:11.502093 2017] [wsgi:error] [pid 3777:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 14:07:11.504837 2017] [wsgi:error] [pid 3776:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 14:07:11.523956 2017] [wsgi:error] [pid 3777:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:11.688190 2017] [wsgi:error] [pid 3776:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:34.846088 2017] [wsgi:error] [pid 3777:tid 3049937728] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.theme.css
+[Mon Jun 19 14:07:34.852712 2017] [wsgi:error] [pid 3776:tid 3041545024] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.css
+[Mon Jun 19 14:07:34.856360 2017] [wsgi:error] [pid 3776:tid 3033152320] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
+[Mon Jun 19 14:07:35.234017 2017] [wsgi:error] [pid 3777:tid 3024759616] Not Found: /sport/filter/\\static\\jqueryui\\jquery-ui.min.js
